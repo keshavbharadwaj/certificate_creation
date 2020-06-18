@@ -243,19 +243,18 @@ def certificate(csvno, c):
     global fonts_text, fontsscale_text, fontscolour_text, linetypes_text, thickness_text
     if c == 0:
         g = 0
-        print(pos)
         for i in pos:
             #print(d[names[i]][csvno], align[g],fonts_text[i], fontsscale_text[i], fontscolour_text[i], linetypes_text[i], thickness_text[i])
             #print(fonts_text[i], fontsscale_text[i], fontscolour_text[i], linetypes_text[i], thickness_text[i])
             cv2.putText(a, str(d[names[i]][csvno]), align[g],fonts_text[i], fontsscale_text[i], fontscolour_text[i], linetypes_text[i], thickness_text[i])
             g = g + 1
-        print("here")
+
         b = cv2.imread("urls/" + str(csvno) + ".png")
         x, y, _ = b.shape
         a[align[-1][1]:align[-1][1] + y, align[-1][0]:align[-1][0] + x] = b
-        print("here2")
+
         cv2.imwrite("Certificates/" + d[names[0]][csvno] + ".png", a)
-        print("here3")
+
 
 
 def steganography():
@@ -526,8 +525,8 @@ def mainframe(x):
     button4.grid(row=4, column=1)
     button3.grid(row=4, column=2)
     frame1.wait_variable(var)
+    root.quit()
     root.destroy()
-    exit(0)
 
 
 root = Tk()
