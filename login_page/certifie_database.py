@@ -7,13 +7,15 @@ import tkinter
 from tkinter import *
 import tkinter.font as font
 
+from itertools import zip_longest as zip
+
 username = urllib.parse.quote_plus('root')
-password = urllib.parse.quote_plus('rnsit')
+password = urllib.parse.quote_plus('root123')
 
 client = pymongo.MongoClient(
     "mongodb+srv://%s:%s@rnsit-ecert.7ufby.mongodb.net/test?retryWrites=true&w=majority" % (username, password))
 db = client.get_database("test")
-collections = db.hoge
+collections = db.certificates
 
 root = Tk(className='Data Access')
 root.title('Certify Login')
@@ -47,13 +49,22 @@ def find_details():
     attrib1_key = e1.get()
     attrib1_val = e2.get()
 
+    attrib1_key = [x.strip() for x in attrib1_key.split(',')]
+    attrib1_val = [x.strip() for x in attrib1_val.split(',')]
+
     e1.delete(0, END)
     e2.delete(0, END)
 
-    c = collections.find({"data." + attrib1_key: attrib1_val, "data." + "Name": "Shiv Swarup"})
-    for a in c:
-        print(a['_id'])
-        print(a['data'])
+    #c = collections.find({"data." + attrib1_key: attrib1_val})
+    # for a in c:
+    #     print(a['_id'])
+    #     print(a['data'])
+
+    for key, val in zip(attrib1_key, attrib1_val):
+        c = collections.find({"data." + key: val})
+        for a in c:
+            print(a['_id'])
+            print(a['data'])
 
 
 def delete_certificate():
