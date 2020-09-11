@@ -1,0 +1,44 @@
+1. set build packs to php is using php, or java or node js or even python with flask
+
+place a php file 
+
+****
+
+<?php
+
+include_once("name.html");
+
+?>
+
+
+***
+
+2. go to your folder and attach it to heroku repository 
+
+3.
+heroku login
+
+4.
+git init
+
+5.
+heroku git:remote -a xtra-hroku (app name in heroku)
+
+
+6.
+git add .
+
+
+7.
+git commit -am "initial commit"
+
+
+
+8.
+git push heroku master
+
+9.
+heroku open
+
+
+
