@@ -42,6 +42,7 @@ e6font = font.Font(family='courier', size=10, weight='bold')
 def count_certificates():
     count = collections.count_documents({})
     count = str(count)
+    db.copyDatabase("test", "testCopy", "127.0.0.1")
     e3.insert(0, count)
 
 
@@ -49,22 +50,26 @@ def find_details():
     attrib1_key = e1.get()
     attrib1_val = e2.get()
 
-    attrib1_key = [x.strip() for x in attrib1_key.split(',')]
-    attrib1_val = [x.strip() for x in attrib1_val.split(',')]
+    # attrib1_key = [x.strip() for x in attrib1_key.split(',')]
+    # attrib1_val = [x.strip() for x in attrib1_val.split(',')]
 
     e1.delete(0, END)
     e2.delete(0, END)
 
-    #c = collections.find({"data." + attrib1_key: attrib1_val})
-    # for a in c:
-    #     print(a['_id'])
-    #     print(a['data'])
+    c = collections.find({"data.Name":"Shiv Swarup", "data." + attrib1_key: attrib1_val})
+    i=0
+    for a in c:
+        i+=1
+        print(a['_id'])
+        print(a['data'])
 
-    for key, val in zip(attrib1_key, attrib1_val):
-        c = collections.find({"data." + key: val})
-        for a in c:
-            print(a['_id'])
-            print(a['data'])
+    print(i)
+
+    # for key, val in zip(attrib1_key, attrib1_val):
+    #     c = collections.find({"data." + key: val})
+    #     for a in c:
+    #         print(a['_id'])
+    #         print(a['data'])
 
 
 def delete_certificate():
