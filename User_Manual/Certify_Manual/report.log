@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  16 SEP 2020 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  18 SEP 2020 17:25
 entering extended mode
 **./report.tex
 (report.tex
@@ -793,8 +793,7 @@ Package: wrapfig 2003/01/31  v 3.6
 ("E:\MiKTeX 2.9\tex/latex/moresize\moresize.sty"
 Package: moresize 1999/07/26 v1.9 (more font sizes)
 ) (report.aux (title.aux)
-(copyright.aux) (preface.aux) (acknowledge.aux) (introduction.aux)
-(chapter2.aux) (chapter3.aux) (chapter4.aux) (appendix.aux))
+(copyright.aux) (preface.aux) (acknowledge.aux) (chapter5.aux) (appendix.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -907,7 +906,7 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `title.aux'.
 
  (title.tex
-<images/logo_no_bg copy.png, id=47, 682.04813pt x 627.84563pt>
+<images/logo_no_bg copy.png, id=23, 682.04813pt x 627.84563pt>
 File: images/logo_no_bg copy.png Graphic file (type png)
 <use images/logo_no_bg copy.png>
 Package pdftex.def Info: images/logo_no_bg copy.png  used on input line 10.
@@ -998,125 +997,107 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 {page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\include{introduction}
-                              [1
+l.125 	\include{chapter5}
+                          [1
 
 ]
-\openout2 = `introduction.aux'.
+\openout2 = `chapter5.aux'.
 
- (introduction.tex
-<images/login_page/login_1.png, id=87, 413.29407pt x 439.6425pt>
-File: images/login_page/login_1.png Graphic file (type png)
-<use images/login_page/login_1.png>
-Package pdftex.def Info: images/login_page/login_1.png  used on input line 7.
-(pdftex.def)             Requested size: 261.36913pt x 278.03616pt.
-<images/login_page/login_4.png, id=88, 416.30531pt x 440.39531pt>
-File: images/login_page/login_4.png Graphic file (type png)
-<use images/login_page/login_4.png>
-Package pdftex.def Info: images/login_page/login_4.png  used on input line 22.
-(pdftex.def)             Requested size: 261.36913pt x 276.503pt.
+ (chapter5.tex
+<images/generation_qr_nqr/Screenshot (76).png, id=57, 728.7225pt x 513.41812pt>
+
+File: images/generation_qr_nqr/Screenshot (76).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (76).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (76).png  used on 
+input line 6.
+(pdftex.def)             Requested size: 304.92622pt x 214.82721pt.
+<images/generation_qr_nqr/Screenshot (77).png, id=58, 745.28438pt x 516.42938pt
+>
+File: images/generation_qr_nqr/Screenshot (77).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (77).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (77).png  used on 
+input line 11.
+(pdftex.def)             Requested size: 304.92622pt x 211.28825pt.
+<images/generation_qr_nqr/Screenshot (78).png, id=59, 733.99219pt x 519.44063pt
+>
+File: images/generation_qr_nqr/Screenshot (78).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (78).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (78).png  used on 
+input line 20.
+(pdftex.def)             Requested size: 304.92622pt x 215.7937pt.
+<images/generation_qr_nqr/Screenshot (79).png, id=60, 740.0147pt x 517.935pt>
+File: images/generation_qr_nqr/Screenshot (79).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (79).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (79).png  used on 
+input line 25.
+(pdftex.def)             Requested size: 304.92622pt x 213.41373pt.
  [2
 
 
- <./images/login_page/login_1.png>]
-<images/login_page/login_6.png, id=96, 496.10344pt x 238.64156pt>
-File: images/login_page/login_6.png Graphic file (type png)
-<use images/login_page/login_6.png>
-Package pdftex.def Info: images/login_page/login_6.png  used on input line 28.
-(pdftex.def)             Requested size: 392.04704pt x 188.59029pt.
-<images/login_page/login_5.png, id=97, 636.12656pt x 197.23688pt>
-File: images/login_page/login_5.png Graphic file (type png)
-<use images/login_page/login_5.png>
-Package pdftex.def Info: images/login_page/login_5.png  used on input line 34.
-(pdftex.def)             Requested size: 413.82892pt x 128.31078pt.
-<images/login_page/login_2.png, id=98, 416.30531pt x 443.40656pt>
-File: images/login_page/login_2.png Graphic file (type png)
-<use images/login_page/login_2.png>
-Package pdftex.def Info: images/login_page/login_2.png  used on input line 42.
-(pdftex.def)             Requested size: 196.02351pt x 208.78676pt.
- [3 <./images/login_page/login_4.png> <./images/login_page/login_6.png> <./imag
-es/login_page/login_5.png>]
-<images/login_page/login_3.png, id=113, 411.78844pt x 443.40656pt>
-File: images/login_page/login_3.png Graphic file (type png)
-<use images/login_page/login_3.png>
-Package pdftex.def Info: images/login_page/login_3.png  used on input line 49.
-(pdftex.def)             Requested size: 196.02351pt x 211.07361pt.
-<images/login_page/login_7.png, id=114, 415.5525pt x 438.8897pt>
-File: images/login_page/login_7.png Graphic file (type png)
-<use images/login_page/login_7.png>
-Package pdftex.def Info: images/login_page/login_7.png  used on input line 58.
-(pdftex.def)             Requested size: 261.36913pt x 276.05997pt.
- [4 <./images/login_page/login_2.png> <./images/login_page/login_3.png>]) [5 <.
-/images/login_page/login_7.png>]
-\openout2 = `chapter2.aux'.
-
-
-(chapter2.tex) [6
-
-
-
-]
-\openout2 = `chapter3.aux'.
-
- (chapter3.tex) [7
-
-
-
-]
-\openout2 = `chapter4.aux'.
-
- (chapter4.tex) [8
-
-
-
-]
+ <./images/generation_qr_nqr/Screenshot (76).png> <./images/generation_qr_nqr/S
+creenshot (77).png>]
+<images/generation_qr_nqr/Screenshot (82).png, id=69, 1017.04968pt x 712.91344p
+t>
+File: images/generation_qr_nqr/Screenshot (82).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (82).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (82).png  used on 
+input line 35.
+(pdftex.def)             Requested size: 348.48996pt x 244.28017pt.
+<images/generation_qr_nqr/Screenshot (83).png, id=70, 349.305pt x 348.55219pt>
+File: images/generation_qr_nqr/Screenshot (83).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (83).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (83).png  used on 
+input line 40.
+(pdftex.def)             Requested size: 304.92622pt x 304.28568pt.
+ [3 <./images/generation_qr_nqr/Screenshot (78).png> <./images/generation_qr_nq
+r/Screenshot (79).png>]) [4 <./images/generation_qr_nqr/Screenshot (82).png> <.
+/images/generation_qr_nqr/Screenshot (83).png>]
 \openout2 = `appendix.aux'.
 
- (appendix.tex [9
+ (appendix.tex [5
 
 
 
-])
-[10
+]) [6
 
 ]
 \tf@toc=\write5
 \openout5 = `report.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
- (report.aux (title.aux) (copyright.aux) (preface.aux) (acknowledge.aux)
-(introduction.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux) (appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+ (report.aux
+(title.aux) (copyright.aux) (preface.aux) (acknowledge.aux) (chapter5.aux)
+(appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: D7183F568849EAEE8CB5912576C392C1;551.
+(rerunfilecheck)             Checksum: B264A64CE8D467855E5282C32FBA474A;223.
+
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 15171 strings out of 480930
- 230757 string characters out of 2916071
+ 15103 strings out of 480930
+ 230194 string characters out of 2916071
  716568 words of memory out of 3000000
- 30702 multiletter control sequences out of 15000+200000
- 542066 words of font info for 56 fonts, out of 3000000 for 9000
+ 30668 multiletter control sequences out of 15000+200000
+ 542076 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,14n,46p,561b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm1200.pk> <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
-ec/dpi600\tcbx1728.pk><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.p
-fb>
-Output written on report.pdf (14 pages, 265459 bytes).
+tcbx1728.pk><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (10 pages, 1273795 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
