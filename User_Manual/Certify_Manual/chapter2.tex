@@ -1,3 +1,199 @@
-\chapter{Generation}
+\chapter{Generation with QR / without QR Code}
 
-REFER YOUR GUIDE FOR LITERATURE SURVEY FORMAT
+The mainframe of the generator is as shown below. It is provided with three fuctionalities, generation, database, decoding the later two will be discussed in the outcoming chapter. Here the procedure to generate e-certificates with QR Code and without QR Code are discussed.
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (28)"}
+	\label{fig:screenshot-28}
+\end{figure}
+
+\newpage
+\paragraph{1. Selection of Certificate template}
+A certificate template must be created in JPG or PNG format in the host computer. Clicking on the Generation button pops up a window to select the certificate template image. This template can be created in Corel Draw or Adobe Photoshop.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (29)"}
+	\label{fig:screenshot-29}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (30)"}
+	\label{fig:screenshot-30}
+\end{figure}
+
+\newpage
+\paragraph{2. Steganography}
+
+\begin{itemize}
+	\item You can choose to embed a alpha-numeric code as securit code. This will be embedded into the certificate by steganography. If you have the password then you can enter your code number.
+	\item If you don't have access to the password we are sorry this feature is not enabled for you!!, go back \& select `No' to continue with generation. With `No' a Default code will be inserted in steganography.
+	\item Please contact Admin / Developer for the password incase the feature is necessary
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\linewidth]{"images/generation_qr_nqr/Screenshot (31)"}
+	\label{fig:screenshot-31}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth]{"images/generation_qr_nqr/Screenshot (33)"}
+	\label{fig:screenshot-33}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\linewidth]{"images/generation_qr_nqr/Screenshot (34)"}
+	\label{fig:screenshot-34}
+\end{figure}
+
+\newpage
+\paragraph{3. CSV / Data File selection}
+
+\begin{itemize}
+	\item Click `Yes' for CSV file
+	\item Create the data in row and cloumns and save it in `.csv' format
+	\item \textbf{Make sure there are no columns named as `img' or `serial'}
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (37)"}
+	\caption{}
+	\label{fig:screenshot-37}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{"images/generation_qr_nqr/Screenshot (38)"}
+	\caption{}
+	\label{fig:screenshot-38}
+\end{figure}
+
+\newpage
+\paragraph{4. Choosing QR code / No QR Code}
+\begin{itemize}
+	\item You can select whether QR Authentication must be provided or not for the certificates
+	\item If `No', then you'll be taken to select the required columns that come up on the certificate
+	\item If 'Yes' you'll have to wait for few moments to create the QR codes and Authentication links for verification. After the links generated you'll have to select the columns required for the certificate
+	\item \textit{Adiced to place QR Codes on white background}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\linewidth]{"images/generation_qr_nqr/Screenshot (39)"}
+	\label{fig:screenshot-39}
+\end{figure}
+
+	\item \large\textbf{IF YES}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (51)"}
+	\label{fig:screenshot-51}
+\end{figure}
+
+	\item \large\textbf{IF NO, \& after Authentication link generation when YES}
+	
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (41)"}
+	\label{fig:screenshot-41}
+\end{figure}
+
+
+\end{itemize}
+
+\newpage
+\paragraph{5. Selection of attributes on certificate}
+
+\begin{itemize}
+	\item The columns selected must now be pointed to location of the certificate. Double clicking the points is displayed with a blue circle
+	\item The attributes must be selected in the order displayed on screen, it also contains QR code if generated
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth]{"images/generation_qr_nqr/Screenshot (56)"}
+	\label{fig:screenshot-56}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{"images/generation_qr_nqr/Screenshot (54)"}
+	\label{fig:screenshot-54}
+\end{figure}
+
+
+\newpage
+\paragraph{6. Font Selection and Scaling}
+
+\begin{itemize}
+	\item Each attribute is given an option of font size, line thickness, font style and color change
+	\item If QR code is chosen then the scaling of QR code is provided with a scale from 1-9, advicable to use between 5-7 
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (57)"}
+	\label{fig:screenshot-57}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth]{"images/generation_qr_nqr/Screenshot (42)"}
+	\label{fig:screenshot-42}
+\end{figure}
+
+\newpage
+\begin{itemize}
+	\item Font Style and Size can be adjusted. The Font Scale can be updated in decimal values
+	\item The Colors for the font can be selected from color chooser
+	\item Set to check the chagnes made, and Done to commit the change and close the diting window
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (43)"}
+	\label{fig:screenshot-43}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (44)"}
+	\label{fig:screenshot-44}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{"images/generation_qr_nqr/Screenshot (59)"}
+	\label{fig:screenshot-59}
+\end{figure}
+
+\begin{itemize}
+	\item Alignment verification, if `YES' continues to use this as a template for certificate generation
+	\item If `No' then you can make changes to the alignment again
+	\item Wait till all certifiates have been generated into the Certificates Folder
+	\item Mainframe is displayed after the operation, can continue with the next work!!
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (48)"}
+	\label{fig:screenshot-48}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"images/generation_qr_nqr/Screenshot (49)"}
+	\label{fig:screenshot-49}
+\end{figure}
+
+
