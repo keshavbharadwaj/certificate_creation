@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  18 SEP 2020 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  19 SEP 2020 02:19
 entering extended mode
 **./report.tex
 (report.tex
@@ -793,7 +793,9 @@ Package: wrapfig 2003/01/31  v 3.6
 ("E:\MiKTeX 2.9\tex/latex/moresize\moresize.sty"
 Package: moresize 1999/07/26 v1.9 (more font sizes)
 ) (report.aux (title.aux)
-(copyright.aux) (preface.aux) (acknowledge.aux) (chapter5.aux) (appendix.aux))
+(copyright.aux) (preface.aux) (acknowledge.aux) (introduction.aux)
+(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux)
+(appendix.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -812,8 +814,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
-
-("E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ ("E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count365
 \scratchdimen=\dimen278
@@ -906,7 +907,7 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `title.aux'.
 
  (title.tex
-<images/logo_no_bg copy.png, id=23, 682.04813pt x 627.84563pt>
+<images/logo_no_bg copy.png, id=71, 682.04813pt x 627.84563pt>
 File: images/logo_no_bg copy.png Graphic file (type png)
 <use images/logo_no_bg copy.png>
 Package pdftex.def Info: images/logo_no_bg copy.png  used on input line 10.
@@ -914,11 +915,11 @@ Package pdftex.def Info: images/logo_no_bg copy.png  used on input line 10.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 17.
+(Font)              size <20.74> substituted on input line 14.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 17.
+(Font)              size <20.74> substituted on input line 14.
 
 [1
 
@@ -997,68 +998,458 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 {page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.125 	\include{chapter5}
-                          [1
+l.120 	\include{introduction}
+                              [1
 
 ]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex
+<images/login_page/login_1.png, id=117, 413.29407pt x 439.6425pt>
+File: images/login_page/login_1.png Graphic file (type png)
+<use images/login_page/login_1.png>
+Package pdftex.def Info: images/login_page/login_1.png  used on input line 7.
+(pdftex.def)             Requested size: 261.36913pt x 278.03616pt.
+<images/login_page/login_4.png, id=118, 416.30531pt x 440.39531pt>
+File: images/login_page/login_4.png Graphic file (type png)
+<use images/login_page/login_4.png>
+Package pdftex.def Info: images/login_page/login_4.png  used on input line 22.
+(pdftex.def)             Requested size: 261.36913pt x 276.503pt.
+ [2
+
+
+ <./images/login_page/login_1.png>]
+<images/login_page/login_6.png, id=126, 496.10344pt x 238.64156pt>
+File: images/login_page/login_6.png Graphic file (type png)
+<use images/login_page/login_6.png>
+Package pdftex.def Info: images/login_page/login_6.png  used on input line 28.
+(pdftex.def)             Requested size: 392.04704pt x 188.59029pt.
+<images/login_page/login_5.png, id=127, 636.12656pt x 197.23688pt>
+File: images/login_page/login_5.png Graphic file (type png)
+<use images/login_page/login_5.png>
+Package pdftex.def Info: images/login_page/login_5.png  used on input line 34.
+(pdftex.def)             Requested size: 413.82892pt x 128.31078pt.
+<images/login_page/login_2.png, id=128, 416.30531pt x 443.40656pt>
+File: images/login_page/login_2.png Graphic file (type png)
+<use images/login_page/login_2.png>
+Package pdftex.def Info: images/login_page/login_2.png  used on input line 45.
+(pdftex.def)             Requested size: 196.02351pt x 208.78676pt.
+ [3 <./images/login_page/login_4.png> <./images/login_page/login_6.png> <./imag
+es/login_page/login_5.png>]
+<images/login_page/login_3.png, id=143, 411.78844pt x 443.40656pt>
+File: images/login_page/login_3.png Graphic file (type png)
+<use images/login_page/login_3.png>
+Package pdftex.def Info: images/login_page/login_3.png  used on input line 53.
+(pdftex.def)             Requested size: 196.02351pt x 211.07361pt.
+ [4 <./images/login_page/login_2.png> <./images/login_page/login_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<images/login_page/login_7.png, id=152, 415.5525pt x 438.8897pt>
+File: images/login_page/login_7.png Graphic file (type png)
+<use images/login_page/login_7.png>
+Package pdftex.def Info: images/login_page/login_7.png  used on input line 67.
+(pdftex.def)             Requested size: 261.36913pt x 276.05997pt.
+) [5 <./images/login_page/login_7.png>]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+<images/generation_qr_nqr/Screenshot (28).png, id=159, 745.28438pt x 512.66531p
+t>
+File: images/generation_qr_nqr/Screenshot (28).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (28).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (28).png  used on 
+input line 8.
+(pdftex.def)             Requested size: 370.27182pt x 254.69708pt.
+ [6
+
+
+
+ <./images/generation_qr_nqr/Screenshot (28).png>]
+<images/generation_qr_nqr/Screenshot (29).png, id=166, 712.91344pt x 396.7322pt
+>
+File: images/generation_qr_nqr/Screenshot (29).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (29).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (29).png  used on 
+input line 18.
+(pdftex.def)             Requested size: 370.27182pt x 206.05373pt.
+<images/generation_qr_nqr/Screenshot (30).png, id=167, 707.64375pt x 390.70969p
+t>
+File: images/generation_qr_nqr/Screenshot (30).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (30).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (30).png  used on 
+input line 25.
+(pdftex.def)             Requested size: 370.27182pt x 204.44005pt.
+ [7 <./images/generation_qr_nqr/Screenshot (29).png> <./images/generation_qr_nq
+r/Screenshot (30).png>]
+<images/generation_qr_nqr/Screenshot (31).png, id=177, 283.0575pt x 137.01187pt
+>
+File: images/generation_qr_nqr/Screenshot (31).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (31).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (31).png  used on 
+input line 40.
+(pdftex.def)             Requested size: 217.80539pt x 105.43047pt.
+<images/generation_qr_nqr/Screenshot (33).png, id=178, 462.97969pt x 306.39468p
+t>
+File: images/generation_qr_nqr/Screenshot (33).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (33).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (33).png  used on 
+input line 46.
+(pdftex.def)             Requested size: 283.14435pt x 187.38202pt.
+<images/generation_qr_nqr/Screenshot (34).png, id=179, 344.78813pt x 148.30406p
+t>
+File: images/generation_qr_nqr/Screenshot (34).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (34).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (34).png  used on 
+input line 52.
+(pdftex.def)             Requested size: 217.80539pt x 93.68549pt.
+ [8 <./images/generation_qr_nqr/Screenshot (31).png> <./images/generation_qr_nq
+r/Screenshot (33).png> <./images/generation_qr_nqr/Screenshot (34).png>]
+<images/generation_qr_nqr/Screenshot (37).png, id=191, 714.41907pt x 456.95718p
+t>
+File: images/generation_qr_nqr/Screenshot (37).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (37).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (37).png  used on 
+input line 67.
+(pdftex.def)             Requested size: 370.27182pt x 236.83119pt.
+<images/generation_qr_nqr/Screenshot (38).png, id=192, 707.64375pt x 395.22656p
+t>
+File: images/generation_qr_nqr/Screenshot (38).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (38).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (38).png  used on 
+input line 74.
+(pdftex.def)             Requested size: 392.04704pt x 218.96736pt.
+ [9 <./images/generation_qr_nqr/Screenshot (37).png> <./images/generation_qr_nq
+r/Screenshot (38).png>]
+<images/generation_qr_nqr/Screenshot (39).png, id=203, 282.30469pt x 118.19156p
+t>
+File: images/generation_qr_nqr/Screenshot (39).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (39).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (39).png  used on 
+input line 90.
+(pdftex.def)             Requested size: 261.36913pt x 109.43369pt.
+<images/generation_qr_nqr/Screenshot (51).png, id=204, 581.17125pt x 182.93344p
+t>
+File: images/generation_qr_nqr/Screenshot (51).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (51).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (51).png  used on 
+input line 98.
+(pdftex.def)             Requested size: 304.92622pt x 95.98286pt.
+<images/generation_qr_nqr/Screenshot (41).png, id=205, 651.18282pt x 155.83218p
+t>
+File: images/generation_qr_nqr/Screenshot (41).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (41).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (41).png  used on 
+input line 106.
+(pdftex.def)             Requested size: 304.92622pt x 72.97244pt.
+ [10 <./images/generation_qr_nqr/Screenshot (39).png> <./images/generation_qr_n
+qr/Screenshot (51).png> <./images/generation_qr_nqr/Screenshot (41).png>]
+<images/generation_qr_nqr/Screenshot (56).png, id=218, 563.85657pt x 488.57532p
+t>
+File: images/generation_qr_nqr/Screenshot (56).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (56).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (56).png  used on 
+input line 123.
+(pdftex.def)             Requested size: 283.14435pt x 245.34567pt.
+<images/generation_qr_nqr/Screenshot (54).png, id=219, 1170.62344pt x 685.05937
+pt>
+File: images/generation_qr_nqr/Screenshot (54).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (54).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (54).png  used on 
+input line 130.
+(pdftex.def)             Requested size: 348.48996pt x 203.94096pt.
+ [11 <./images/generation_qr_nqr/Screenshot (56).png> <./images/generation_qr_n
+qr/Screenshot (54).png>]
+<images/generation_qr_nqr/Screenshot (57).png, id=229, 542.025pt x 152.82094pt>
+
+File: images/generation_qr_nqr/Screenshot (57).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (57).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (57).png  used on 
+input line 145.
+(pdftex.def)             Requested size: 370.27182pt x 104.39954pt.
+<images/generation_qr_nqr/Screenshot (42).png, id=230, 599.23875pt x 619.56468p
+t>
+File: images/generation_qr_nqr/Screenshot (42).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (42).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (42).png  used on 
+input line 151.
+(pdftex.def)             Requested size: 370.27182pt x 382.84041pt.
+ [12 <./images/generation_qr_nqr/Screenshot (57).png> <./images/generation_qr_n
+qr/Screenshot (42).png>]
+<images/generation_qr_nqr/Screenshot (43).png, id=240, 590.95781pt x 621.07031p
+t>
+File: images/generation_qr_nqr/Screenshot (43).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (43).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (43).png  used on 
+input line 164.
+(pdftex.def)             Requested size: 304.92622pt x 320.46603pt.
+<images/generation_qr_nqr/Screenshot (44).png, id=241, 944.02687pt x 621.07031p
+t>
+File: images/generation_qr_nqr/Screenshot (44).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (44).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (44).png  used on 
+input line 170.
+(pdftex.def)             Requested size: 304.92622pt x 200.61348pt.
+<images/generation_qr_nqr/Screenshot (59).png, id=242, 733.99219pt x 490.83376p
+t>
+File: images/generation_qr_nqr/Screenshot (59).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (59).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (59).png  used on 
+input line 176.
+(pdftex.def)             Requested size: 392.04704pt x 262.1703pt.
+ [13 <./images/generation_qr_nqr/Screenshot (43).png> <./images/generation_qr_n
+qr/Screenshot (44).png>]
+<images/generation_qr_nqr/Screenshot (48).png, id=251, 539.01375pt x 105.39375p
+t>
+File: images/generation_qr_nqr/Screenshot (48).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (48).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (48).png  used on 
+input line 189.
+(pdftex.def)             Requested size: 304.92622pt x 59.62315pt.
+<images/generation_qr_nqr/Screenshot (49).png, id=252, 633.86812pt x 122.70844p
+t>
+File: images/generation_qr_nqr/Screenshot (49).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (49).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (49).png  used on 
+input line 195.
+(pdftex.def)             Requested size: 304.92622pt x 59.03044pt.
+) [14 <./images/generation_qr_nqr/Screenshot (59).png> <./images/generation_qr_
+nqr/Screenshot (48).png> <./images/generation_qr_nqr/Screenshot (49).png>]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+<images/image_on_cert/Screenshot (84).png, id=263, 289.08pt x 90.3375pt>
+File: images/image_on_cert/Screenshot (84).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (84).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (84).png  used on inpu
+t line 11.
+(pdftex.def)             Requested size: 304.92622pt x 95.29411pt.
+<images/image_on_cert/Screenshot (93).png, id=264, 702.37407pt x 395.97937pt>
+File: images/image_on_cert/Screenshot (93).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (93).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (93).png  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 370.27182pt x 208.75632pt.
+<images/image_on_cert/Screenshot (94).png, id=265, 705.38531pt x 396.7322pt>
+File: images/image_on_cert/Screenshot (94).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (94).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (94).png  used on inpu
+t line 21.
+(pdftex.def)             Requested size: 348.48996pt x 196.00468pt.
+<images/image_on_cert/Screenshot (85).png, id=266, 700.86844pt x 142.28156pt>
+File: images/image_on_cert/Screenshot (85).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (85).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (85).png  used on inpu
+t line 26.
+(pdftex.def)             Requested size: 326.70808pt x 66.32523pt.
+ [15
+
+
+
+ <./images/image_on_cert/Screenshot (84).png> <./images/image_on_cert/Screensho
+t (93).png>]
+<images/image_on_cert/Screenshot (89).png, id=276, 560.8453pt x 317.68687pt>
+File: images/image_on_cert/Screenshot (89).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (89).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (89).png  used on inpu
+t line 31.
+(pdftex.def)             Requested size: 304.92622pt x 172.72144pt.
+<images/image_on_cert/Screenshot (95).png, id=277, 1428.08531pt x 759.58781pt>
+File: images/image_on_cert/Screenshot (95).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (95).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (95).png  used on inpu
+t line 36.
+(pdftex.def)             Requested size: 326.70808pt x 173.77429pt.
+
+[16 <./images/image_on_cert/Screenshot (94).png> <./images/image_on_cert/Screen
+shot (85).png> <./images/image_on_cert/Screenshot (89).png> <./images/image_on_
+cert/Screenshot (95).png>]
+<images/image_on_cert/Screenshot (90).png, id=290, 622.57594pt x 192.72pt>
+File: images/image_on_cert/Screenshot (90).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (90).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (90).png  used on inpu
+t line 48.
+(pdftex.def)             Requested size: 326.70808pt x 101.13245pt.
+<images/image_on_cert/Screenshot (91).png, id=291, 556.32843pt x 331.2375pt>
+File: images/image_on_cert/Screenshot (91).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (91).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (91).png  used on inpu
+t line 53.
+(pdftex.def)             Requested size: 326.70808pt x 194.52371pt.
+<images/image_on_cert/Screenshot (96).png, id=292, 740.7675pt x 525.46312pt>
+File: images/image_on_cert/Screenshot (96).png Graphic file (type png)
+<use images/image_on_cert/Screenshot (96).png>
+Package pdftex.def Info: images/image_on_cert/Screenshot (96).png  used on inpu
+t line 58.
+(pdftex.def)             Requested size: 326.70808pt x 231.7497pt.
+<images/image_on_cert/Newton_0.png, id=293, 3523.1625pt x 2490.30376pt>
+File: images/image_on_cert/Newton_0.png Graphic file (type png)
+<use images/image_on_cert/Newton_0.png>
+Package pdftex.def Info: images/image_on_cert/Newton_0.png  used on input line 
+64.
+(pdftex.def)             Requested size: 413.82892pt x 292.47774pt.
+ [17 <./images/image_on_cert/Screenshot (90).png> <./images/image_on_cert/Scree
+nshot (91).png> <./images/image_on_cert/Screenshot (96).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+) [18 <./images/image_on_cert/Newton_0.png (PNG copy)>]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+<images/generation_qr_nqr/Screenshot (68).png, id=309, 748.29562pt x 516.42938p
+t>
+File: images/generation_qr_nqr/Screenshot (68).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (68).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (68).png  used on 
+input line 15.
+(pdftex.def)             Requested size: 413.82892pt x 285.59729pt.
+ [19
+
+
+
+ <./images/generation_qr_nqr/Screenshot (68).png>]
+<images/generation_qr_nqr/Screenshot (67).png, id=316, 618.05907pt x 170.88844p
+t>
+File: images/generation_qr_nqr/Screenshot (67).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (67).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (67).png  used on 
+input line 33.
+(pdftex.def)             Requested size: 348.48996pt x 96.35657pt.
+<images/generation_qr_nqr/Screenshot (65).png, id=317, 749.04843pt x 524.71031p
+t>
+File: images/generation_qr_nqr/Screenshot (65).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (65).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (65).png  used on 
+input line 39.
+(pdftex.def)             Requested size: 383.33961pt x 268.53546pt.
+ [20 <./images/generation_qr_nqr/Screenshot (67).png> <./images/generation_qr_n
+qr/Screenshot (65).png>]
+<images/generation_qr_nqr/Screenshot (72).png, id=326, 748.29562pt x 522.45187p
+t>
+File: images/generation_qr_nqr/Screenshot (72).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (72).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (72).png  used on 
+input line 56.
+(pdftex.def)             Requested size: 326.70808pt x 228.10178pt.
+<images/generation_qr_nqr/Screenshot (73).png, id=327, 748.29562pt x 527.72156p
+t>
+File: images/generation_qr_nqr/Screenshot (73).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (73).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (73).png  used on 
+input line 62.
+(pdftex.def)             Requested size: 326.70808pt x 230.40253pt.
+<images/generation_qr_nqr/Screenshot (74).png, id=328, 604.50844pt x 117.43875p
+t>
+File: images/generation_qr_nqr/Screenshot (74).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (74).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (74).png  used on 
+input line 75.
+(pdftex.def)             Requested size: 392.04704pt x 76.16403pt.
+ [21 <./images/generation_qr_nqr/Screenshot (72).png> <./images/generation_qr_n
+qr/Screenshot (73).png>]) [22 <./images/generation_qr_nqr/Screenshot (74).png>]
 \openout2 = `chapter5.aux'.
 
- (chapter5.tex
-<images/generation_qr_nqr/Screenshot (76).png, id=57, 728.7225pt x 513.41812pt>
 
+(chapter5.tex
+<images/generation_qr_nqr/Screenshot (76).png, id=344, 580.41844pt x 328.97906p
+t>
 File: images/generation_qr_nqr/Screenshot (76).png Graphic file (type png)
 <use images/generation_qr_nqr/Screenshot (76).png>
 Package pdftex.def Info: images/generation_qr_nqr/Screenshot (76).png  used on 
-input line 6.
-(pdftex.def)             Requested size: 304.92622pt x 214.82721pt.
-<images/generation_qr_nqr/Screenshot (77).png, id=58, 745.28438pt x 516.42938pt
->
+input line 10.
+(pdftex.def)             Requested size: 370.27182pt x 209.8682pt.
+<images/generation_qr_nqr/Screenshot (77).png, id=345, 707.64375pt x 392.96812p
+t>
 File: images/generation_qr_nqr/Screenshot (77).png Graphic file (type png)
 <use images/generation_qr_nqr/Screenshot (77).png>
 Package pdftex.def Info: images/generation_qr_nqr/Screenshot (77).png  used on 
-input line 11.
-(pdftex.def)             Requested size: 304.92622pt x 211.28825pt.
-<images/generation_qr_nqr/Screenshot (78).png, id=59, 733.99219pt x 519.44063pt
->
-File: images/generation_qr_nqr/Screenshot (78).png Graphic file (type png)
-<use images/generation_qr_nqr/Screenshot (78).png>
-Package pdftex.def Info: images/generation_qr_nqr/Screenshot (78).png  used on 
-input line 20.
-(pdftex.def)             Requested size: 304.92622pt x 215.7937pt.
-<images/generation_qr_nqr/Screenshot (79).png, id=60, 740.0147pt x 517.935pt>
-File: images/generation_qr_nqr/Screenshot (79).png Graphic file (type png)
-<use images/generation_qr_nqr/Screenshot (79).png>
-Package pdftex.def Info: images/generation_qr_nqr/Screenshot (79).png  used on 
-input line 25.
-(pdftex.def)             Requested size: 304.92622pt x 213.41373pt.
- [2
+input line 18.
+(pdftex.def)             Requested size: 370.27182pt x 205.62178pt.
+ [23
+
 
 
  <./images/generation_qr_nqr/Screenshot (76).png> <./images/generation_qr_nqr/S
 creenshot (77).png>]
-<images/generation_qr_nqr/Screenshot (82).png, id=69, 1017.04968pt x 712.91344p
+<images/generation_qr_nqr/Screenshot (78).png, id=354, 703.87968pt x 393.72093p
+t>
+File: images/generation_qr_nqr/Screenshot (78).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (78).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (78).png  used on 
+input line 29.
+(pdftex.def)             Requested size: 413.82892pt x 231.47629pt.
+<images/generation_qr_nqr/Screenshot (79).png, id=355, 492.33937pt x 103.88812p
+t>
+File: images/generation_qr_nqr/Screenshot (79).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (79).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (79).png  used on 
+input line 36.
+(pdftex.def)             Requested size: 326.70808pt x 68.94048pt.
+ [24 <./images/generation_qr_nqr/Screenshot (78).png> <./images/generation_qr_n
+qr/Screenshot (79).png>]
+<images/generation_qr_nqr/Screenshot (82).png, id=364, 901.11656pt x 494.59781p
 t>
 File: images/generation_qr_nqr/Screenshot (82).png Graphic file (type png)
 <use images/generation_qr_nqr/Screenshot (82).png>
 Package pdftex.def Info: images/generation_qr_nqr/Screenshot (82).png  used on 
-input line 35.
-(pdftex.def)             Requested size: 348.48996pt x 244.28017pt.
-<images/generation_qr_nqr/Screenshot (83).png, id=70, 349.305pt x 348.55219pt>
+input line 48.
+(pdftex.def)             Requested size: 348.48996pt x 191.27731pt.
+<images/generation_qr_nqr/Screenshot (83).png, id=365, 193.47281pt x 269.50688p
+t>
 File: images/generation_qr_nqr/Screenshot (83).png Graphic file (type png)
 <use images/generation_qr_nqr/Screenshot (83).png>
 Package pdftex.def Info: images/generation_qr_nqr/Screenshot (83).png  used on 
-input line 40.
-(pdftex.def)             Requested size: 304.92622pt x 304.28568pt.
- [3 <./images/generation_qr_nqr/Screenshot (78).png> <./images/generation_qr_nq
-r/Screenshot (79).png>]) [4 <./images/generation_qr_nqr/Screenshot (82).png> <.
-/images/generation_qr_nqr/Screenshot (83).png>]
+input line 55.
+(pdftex.def)             Requested size: 174.24165pt x 242.71843pt.
+) [25 <./images/generation_qr_nqr/Screenshot (82).png> <./images/generation_qr_
+nqr/Screenshot (83).png>]
+\openout2 = `chapter6.aux'.
+
+ (chapter6.tex
+<images/generation_qr_nqr/Nidhin K Biju.png, id=374, 3523.1625pt x 2492.31125pt
+>
+File: images/generation_qr_nqr/Nidhin K Biju.png Graphic file (type png)
+<use images/generation_qr_nqr/Nidhin K Biju.png>
+Package pdftex.def Info: images/generation_qr_nqr/Nidhin K Biju.png  used on in
+put line 5.
+(pdftex.def)             Requested size: 304.92622pt x 215.70366pt.
+<images/generation_qr_nqr/Dr Andhe Pallavi.png, id=375, 3523.1625pt x 2492.3112
+5pt>
+File: images/generation_qr_nqr/Dr Andhe Pallavi.png Graphic file (type png)
+<use images/generation_qr_nqr/Dr Andhe Pallavi.png>
+Package pdftex.def Info: images/generation_qr_nqr/Dr Andhe Pallavi.png  used on
+ input line 10.
+(pdftex.def)             Requested size: 304.92622pt x 215.70366pt.
+<images/generation_qr_nqr/Screenshot (64).png, id=376, 864.22874pt x 698.61pt>
+File: images/generation_qr_nqr/Screenshot (64).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (64).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (64).png  used on 
+input line 17.
+(pdftex.def)             Requested size: 304.92622pt x 246.48924pt.
+<images/generation_qr_nqr/Screenshot (63).png, id=377, 833.36343pt x 588.69937p
+t>
+File: images/generation_qr_nqr/Screenshot (63).png Graphic file (type png)
+<use images/generation_qr_nqr/Screenshot (63).png>
+Package pdftex.def Info: images/generation_qr_nqr/Screenshot (63).png  used on 
+input line 22.
+(pdftex.def)             Requested size: 304.92622pt x 215.40796pt.
+ [26
+
+
+
+ <./images/generation_qr_nqr/Nidhin K Biju.png (PNG copy)> <./images/generation
+_qr_nqr/Dr Andhe Pallavi.png (PNG copy)>]) [27 <./images/generation_qr_nqr/Scre
+enshot (64).png> <./images/generation_qr_nqr/Screenshot (63).png>]
 \openout2 = `appendix.aux'.
 
- (appendix.tex [5
+ (appendix.tex [28
 
 
 
-]) [6
+]) [29
 
 ]
 \tf@toc=\write5
@@ -1066,13 +1457,13 @@ r/Screenshot (79).png>]) [4 <./images/generation_qr_nqr/Screenshot (82).png> <.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (report.aux
-(title.aux) (copyright.aux) (preface.aux) (acknowledge.aux) (chapter5.aux)
-(appendix.aux))
+ (report.aux (title.aux) (copyright.aux)
+(preface.aux) (acknowledge.aux) (introduction.aux) (chapter2.aux) (chapter3.aux
+) (chapter4.aux) (chapter5.aux) (chapter6.aux) (appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: B264A64CE8D467855E5282C32FBA474A;223.
+(rerunfilecheck)             Checksum: EE3774FE0E52076D9C4DDB6BEFC21F9D;967.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1081,23 +1472,26 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 15103 strings out of 480930
- 230194 string characters out of 2916071
- 716568 words of memory out of 3000000
- 30668 multiletter control sequences out of 15000+200000
- 542076 words of font info for 56 fonts, out of 3000000 for 9000
+ 15707 strings out of 480930
+ 249088 string characters out of 2916071
+ 717568 words of memory out of 3000000
+ 31096 multiletter control sequences out of 15000+200000
+ 542754 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,14n,46p,561b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcbx1728.pk><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (10 pages, 1273795 bytes).
+tcrm1440.pk> <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
+ec/dpi600\tcrm1200.pk> <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcbx1728.pk><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti12.pfb>
+Output written on report.pdf (33 pages, 18356712 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 407 words of extra memory for PDF output out of 10000 (max. 10000000)
 

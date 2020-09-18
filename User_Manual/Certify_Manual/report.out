@@ -1,5 +1,17 @@
 \BOOKMARK [0][-]{section*.2}{Table of Contents}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Decoding}{}% 2
-\BOOKMARK [0][-]{section*.9}{Appendices}{}% 3
-\BOOKMARK [0][-]{chapter.A}{Warnings}{}% 4
-\BOOKMARK [0][-]{chapter.B}{FAQ}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Login}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Create New Account}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Login with existing Account}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Reset Password}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Generation with QR / without QR Code}{}% 6
+\BOOKMARK [0][-]{chapter.3}{Image on Certificate}{}% 7
+\BOOKMARK [0][-]{chapter.4}{Database}{}% 8
+\BOOKMARK [1][-]{section.4.1}{Search ALL}{chapter.4}% 9
+\BOOKMARK [1][-]{section.4.2}{Search by Key : Value}{chapter.4}% 10
+\BOOKMARK [1][-]{section.4.3}{Delete data}{chapter.4}% 11
+\BOOKMARK [1][-]{section.4.4}{Count of certificates generated}{chapter.4}% 12
+\BOOKMARK [0][-]{chapter.5}{Decoding}{}% 13
+\BOOKMARK [0][-]{chapter.6}{Example certificates and Verification}{}% 14
+\BOOKMARK [0][-]{section*.62}{Appendices}{}% 15
+\BOOKMARK [0][-]{chapter.A}{Warnings}{}% 16
+\BOOKMARK [0][-]{chapter.B}{FAQ}{}% 17
