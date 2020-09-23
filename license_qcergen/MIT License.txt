@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2020 Certifie, and Certifie Dev contributors
+Copyright (c) 2020 Q-CERGEN, and Q-CERGEN Dev contributors
+Keshav V Bharadwaj, Shankar Anbalagan, Sourav P Adi, Vivek B A, 
 
 Permission is hereby granted, to persons obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software 
