@@ -18,7 +18,9 @@
 \contentsline {section}{\numberline {4.3}Delete data}{21}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Count of certificates generated}{22}{section.4.4}%
 \contentsline {chapter}{\chapternumberline {5}Decoding}{23}{chapter.5}%
-\contentsline {chapter}{\chapternumberline {6}Example certificates and Verification}{26}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {6}Example certificates}{26}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Example-1 \& QR Verification}{26}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Example-2 \& QR Verification}{27}{section.6.2}%
 \contentsline {chapter}{Appendices}{28}{section*.62}%
 \contentsline {appendix}{\chapternumberline {A}Warnings}{28}{chapter.A}%
 \contentsline {appendix}{\chapternumberline {B}FAQ}{29}{chapter.B}%
