@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  24 SEP 2020 00:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  12 OCT 2020 20:24
 entering extended mode
 **./report.tex
 (report.tex
@@ -1055,13 +1055,13 @@ Package pdftex.def Info: images/login_page/login_7.png  used on input line 67.
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
-<images/generation_qr_nqr/Screenshot (28).png, id=169, 745.28438pt x 512.66531p
-t>
+<images/generation_qr_nqr/Screenshot (28).png, id=169, 648.92438pt x 342.5297pt
+>
 File: images/generation_qr_nqr/Screenshot (28).png Graphic file (type png)
 <use images/generation_qr_nqr/Screenshot (28).png>
 Package pdftex.def Info: images/generation_qr_nqr/Screenshot (28).png  used on 
 input line 8.
-(pdftex.def)             Requested size: 370.27182pt x 254.69708pt.
+(pdftex.def)             Requested size: 370.27182pt x 195.44778pt.
  [6
 
 
@@ -1473,7 +1473,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
  15711 strings out of 480930
- 249136 string characters out of 2916071
+ 250816 string characters out of 2916071
  717568 words of memory out of 3000000
  31098 multiletter control sequences out of 15000+200000
  542754 words of font info for 58 fonts, out of 3000000 for 9000
@@ -1489,7 +1489,7 @@ c/amsfonts/cm/cmmi8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on report.pdf (33 pages, 18351027 bytes).
+Output written on report.pdf (33 pages, 18190577 bytes).
 PDF statistics:
  475 PDF objects out of 1000 (max. 8388607)
  111 named destinations out of 1000 (max. 500000)
