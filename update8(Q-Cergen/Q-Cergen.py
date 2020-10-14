@@ -183,6 +183,7 @@ def add_data(path):
         session = requests.session()
 
         r = session.post(login_url,data=login_data)
+        print("here 2")
         user_token = (json.loads(r.text))['data']['userToken']
         print(user_token)
         #print(path)
@@ -216,11 +217,16 @@ def add_data(path):
         datagram.drop(datagram.columns[datagram.columns.str.contains('unnamed', case=False)], axis=1, inplace=True)
         datagram.to_csv(path,index=False)
         print("done")
+    except requests.exceptions.ConnectionError:
+        p = messagebox.showerror("No Internet Connection", "Please check your internet connection")
+        mainframe(frame3)
+
     except:
-        #print("Unexpected error:", sys.exc_info()[0])
+        print("Unexpected error:", sys.exc_info()[0])
         #print("error")
         logout_url = 'https://rnsit-ecert.herokuapp.com/users/logout/' + user_token
         logout_response = requests.get(logout_url)
+        mainframe(frame3)
         #print(logout_response.text)
 
 
@@ -350,13 +356,9 @@ def show_sel():
             p=p+1
 
         x, y, _ = sampleimg.shape
-        try:
-            temp[align[p][1]:align[p][1] + x, align[p][0]:align[p][0] + y] = sampleimg
-        except:
-            k = messagebox.showerror("Error",  c_name+" is overflowing out of the image Please choose the scale again")
-            if (k == "ok"):
-                toplevel.destroy()
-                return
+        # print(x,y)
+        # print(align[p],align[p][0] + x)
+        temp[align[p][1]:align[p][1] + x, align[p][0]:align[p][0] + y] = sampleimg
         temp = cv2.resize(temp, (990, 660), cv2.INTER_AREA)
         temp = cv2.cvtColor(temp, cv2.COLOR_BGR2RGB)
         photo = ImageTk.PhotoImage(image=Image.fromarray(temp))
@@ -417,7 +419,7 @@ def show_sel():
     b = []
     global fonts_text, fontsscale_text, fontscolour_text, linetypes_text, thickness_text
     fonts_text = [cv2.FONT_HERSHEY_PLAIN] * (len(names))
-    fontsscale_text = [10] * (len(names))
+    fontsscale_text = [9.5] * (len(names))
     fontscolour_text = [(0, 0, 0)] * (len(names))
     linetypes_text = [10] * (len(names))
     thickness_text = [5] * (len(names))
@@ -776,6 +778,10 @@ def main():
             back.place(x=450,y=170)
             path2 = filedialog.askopenfilename(initialdir=" ", title="select the csv",
                                                filetypes=(("csv files", "*.csv"),))
+            d=pd.read_csv(path2)
+            if 'serial' in d.columns:
+                warning=messagebox.showwarning("Column named serial","The selected csv file contains a column named serial, Please rename or delete said column ")
+                mainframe(frame3)
 
             response2 = messagebox.askyesno("QR Code?", "Do you want QR Code authentication in certificate?")
             if response2==1:
@@ -829,6 +835,7 @@ def main():
 
                 d.to_csv("temp.csv",index=False)
                 frame3.destroy()
+
 
                 frame3 = Canvas(root)
                 frame3.pack(fill=BOTH, expand=True)
@@ -1261,47 +1268,55 @@ def database():
         messagebox.showinfo("password", "password correct")
         frame2.destroy()
 
+    try:
+        username = urllib.parse.quote_plus('root')
+        password = urllib.parse.quote_plus('root123')
+        client = pymongo.MongoClient(
+            "mongodb+srv://%s:%s@rnsit-ecert.7ufby.mongodb.net/test?retryWrites=true&w=majority" % (username, password))
+        db = client.get_database("test")
+        collections = db.certificates
 
-    username = urllib.parse.quote_plus('root')
-    password = urllib.parse.quote_plus('root123')
-    client = pymongo.MongoClient(
-        "mongodb+srv://%s:%s@rnsit-ecert.7ufby.mongodb.net/test?retryWrites=true&w=majority" % (username, password))
-    db = client.get_database("test")
-    collections = db.certificates
+        framedb = Canvas(root)
+        framedb.pack(fill=BOTH, expand=True)
 
-    framedb = Canvas(root)
-    framedb.pack(fill=BOTH, expand=True)
-
-    C = Canvas(framedb, height=1000, width=700)
-    filename = PhotoImage(file=".img\\t3_2.png")
-    background_label = Label(framedb, image=filename)
-    background_label.place(x=0, y=0, relwidth=1, relheight=1)
+        C = Canvas(framedb, height=1000, width=700)
+        filename = PhotoImage(file=".img\\t3_2.png")
+        background_label = Label(framedb, image=filename)
+        background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
 
 
-    l1 = Label(framedb, text='Search Keys', font=dbfont,bg="black",fg="white").place(x=10,y=10)
-    e1 = Entry(framedb, width=35, borderwidth=5,font=dbfont)
-    e1.place(x=120,y=10)
-    l2 = Label(framedb, text='Search Values', font=dbfont,bg="black",fg="white").place(x=10,y=35)
-    e2 = Entry(framedb, width=35,  borderwidth=5,font=dbfont)
-    e2.place(x=120,y=35)
+        l1 = Label(framedb, text='Search Keys', font=dbfont,bg="black",fg="white").place(x=10,y=10)
+        e1 = Entry(framedb, width=35, borderwidth=5,font=dbfont)
+        e1.place(x=120,y=10)
+        l2 = Label(framedb, text='Search Values', font=dbfont,bg="black",fg="white").place(x=10,y=35)
+        e2 = Entry(framedb, width=35,  borderwidth=5,font=dbfont)
+        e2.place(x=120,y=35)
 
-    l3 = Label(framedb, text='Count', font=dbfont,bg="black",fg="white").place(x=500,y=10)
-    b2 = Button(framedb, text="Count", padx=30, pady=5, font=fontstyle2, command=count_certificates,bg="black",fg="white").place(x=500,y=45)
+        l3 = Label(framedb, text='Count', font=dbfont,bg="black",fg="white").place(x=500,y=10)
+        b2 = Button(framedb, text="Count", padx=30, pady=5, font=fontstyle2, command=count_certificates,bg="black",fg="white").place(x=500,y=45)
 
-    e3 = Entry(framedb, width=15,borderwidth=5,font=dbfont)
-    e3.place(x=570,y=10)
-    l4 = Label(framedb, text='ID No.', font=fontstyle3)
-    e4 = Entry(framedb, width=35,borderwidth=5,font=fontstyle3)
+        e3 = Entry(framedb, width=15,borderwidth=5,font=dbfont)
+        e3.place(x=570,y=10)
+        l4 = Label(framedb, text='ID No.', font=fontstyle3)
+        e4 = Entry(framedb, width=35,borderwidth=5,font=fontstyle3)
 
-    b1 = Button(framedb, text="Search", padx=30, pady=5, font=fontstyle2,  command=find_details,bg="black",fg="white").place(x=5,y=65)
+        b1 = Button(framedb, text="Search", padx=30, pady=5, font=fontstyle2,  command=find_details,bg="black",fg="white").place(x=5,y=65)
 
-    finish=IntVar()
-    finish.set(0)
-    dbback=Button(framedb, text="Back", padx=30, pady=10, font=fontstyle2,  command=lambda:finish.set(1),bg="black",fg="white").place(x=30,y=600)
-    root.wait_variable(finish)
-    mainframe(framedb)
-
+        finish=IntVar()
+        finish.set(0)
+        dbback=Button(framedb, text="Back", padx=30, pady=10, font=fontstyle2,  command=lambda:finish.set(1),bg="black",fg="white").place(x=30,y=600)
+        root.wait_variable(finish)
+        mainframe(framedb)
+    except:
+        print("IN this except")
+        p = messagebox.showerror("No Internet Connection", "Please check your internet connection")
+        framedb=Canvas(root)
+        C = Canvas(framedb, height=1000, width=700)
+        filename = PhotoImage(file=".img\\t3_2.png")
+        background_label = Label(framedb, image=filename)
+        background_label.place(x=0, y=0, relwidth=1, relheight=1)
+        mainframe(framedb)
 
 
 
