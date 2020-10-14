@@ -9,8 +9,8 @@
 \contentsline {paragraph}{2. Steganography}{8}{section*.14}%
 \contentsline {paragraph}{3. CSV / Data File selection}{9}{section*.18}%
 \contentsline {paragraph}{4. Choosing QR code / No QR Code}{10}{section*.21}%
-\contentsline {paragraph}{5. Selection of attributes on certificate}{11}{section*.25}%
-\contentsline {paragraph}{6. Font Selection and Scaling}{12}{section*.28}%
+\contentsline {paragraph}{5. Selection of attributes on certificate}{11}{section*.26}%
+\contentsline {paragraph}{6. Font Selection and Scaling}{12}{section*.29}%
 \contentsline {chapter}{\chapternumberline {3}Image on Certificate}{15}{chapter.3}%
 \contentsline {chapter}{\chapternumberline {4}Database}{19}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Search ALL}{19}{section.4.1}%
@@ -21,6 +21,5 @@
 \contentsline {chapter}{\chapternumberline {6}Example certificates}{26}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Example-1 \& QR Verification}{26}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Example-2 \& QR Verification}{27}{section.6.2}%
-\contentsline {chapter}{Appendices}{28}{section*.62}%
-\contentsline {appendix}{\chapternumberline {A}Warnings}{28}{chapter.A}%
-\contentsline {appendix}{\chapternumberline {B}FAQ}{29}{chapter.B}%
+\contentsline {chapter}{Appendices}{28}{section*.63}%
+\contentsline {appendix}{\chapternumberline {A}Help \& Contact Us Support}{28}{chapter.A}%
