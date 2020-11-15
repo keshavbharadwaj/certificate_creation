@@ -1,0 +1,741 @@
+This document contains three separate licensing agreements, identified
+as "LICENSE.TXT FILE for Nios II v13.0 EDS," "MegaCore Function
+License Agreement," and "Quartus II, Version 13.0 Standard License
+Agreement." Acceptance of the terms and conditions of this document
+serves as an acceptance of each of the three licensing agreements as
+if they were individually and separately accepted.  The terms and
+conditions of each of the three separate licensing agreements in this
+document is deemed to be the terms and conditions of a standalone
+licensing agreement and governs its respective licensing agreement
+without modifying the terms and conditions of other licensing
+agreements in this document.
+
+The following provision applies to all three licensing agreements
+below: Altera may store your data and information on its own servers
+or on servers hosted by third parties.  If Altera is providing any
+software to you for use via the Internet, such software may also be
+stored on our servers or servers hosted by third parties.  For any
+information, data or software hosted by a third party, although every
+reasonable effort will be made to keep data and information secure,
+Altera is not liable for data or information that is inadvertently
+disclosed by the third party or for any system downtime related to the
+third party servers.
+
+FOR QUARTUS II, VERSION 13.0, ALL DISTRIBUTIONS (WEB DOWNLOAD, CDS,
+DVDS)
+
+
+
+QUARTUS II, VERSION 13.0  STANDARD LICENSE AGREEMENT:
+
+
+ALTERA PROGRAM LICENSE SUBSCRIPTION AGREEMENT
+
+PLEASE REVIEW THE FOLLOWING TERMS AND CONDITIONS CONTAINED IN THIS
+ALTERA PROGRAM LICENSE SUBSCRIPTION AGREEMENT (THIS "AGREEMENT")
+CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE (AS DEFINED BELOW)
+PROVIDED TO YOU ON DVD, VIA A WEB-SITE, OR ON ANOTHER MEDIUM OR
+THROUGH ANOTHER DELIVERY MECHANISM.  BY INSTALLING OR USING THE
+SOFTWARE OR PAYING A SUBSCRIPTION FEE OR OTHER APPLICABLE FEE TO
+ALTERA (AS DEFINED BELOW) OR AN ALTERA AUTHORIZED DISTRIBUTOR (AS
+DEFINED BELOW), YOU INDICATE YOUR ACCEPTANCE OF THE AGREEMENT BETWEEN
+YOU AND ALTERA CORPORATION OR THE ALTERA CORPORATION SUBSIDIARY FROM
+WHICH YOU HAVE ACQUIRED THIS LICENSE (TOGETHER WITH ALTERA
+CORPORATION, COLLECTIVELY OR INDIVIDUALLY, "ALTERA").  YOU MAY ALSO BE
+SUBJECT TO A SEPARATE AGREEMENT WITH AN AUTHORIZED ALTERA DISTRIBUTOR,
+RESELLER, OR OEM (EACH, "AN ALTERA AUTHORIZED DISTRIBUTOR") FROM WHICH
+YOU HAVE ACQUIRED A LICENSE TO THE SOFTWARE.  IN THE EVENT OF ANY
+INCONSISTENCY BETWEEN THIS AGREEMENT AND SUCH SEPARATE AGREEMENT, THIS
+AGREEMENT SHALL APPLY EXCEPT WITH RESPECT TO PAYMENT TERMS.
+
+IN ADDITION, THE SOFTWARE MAY CONTAIN PARTICULAR COMPONENTS, FILES, OR
+PORTIONS THAT ARE SUBJECT TO SEPARATE LICENSE AGREEMENTS WITH
+DIFFERENT AND/OR ADDITIONAL TERMS AND CONDITIONS.  IN EACH SUCH CASE,
+THE APPLICABLE TERMS AND CONDITIONS ARE SET FORTH IN A FILE (CALLED
+"LICENSE.TXT") IN A SEPARATELY MARKED SECTION.  THE INDIVIDUAL TERMS
+AND CONDITIONS SET FORTH IN LICENSE.TXT EXCLUSIVELY GOVERN THE NAMED
+COMPONENTS.  BY INSTALLING OR USING THE SOFTWARE OR PAYING A
+SUBSCRIPTION OR OTHER APPLICABLE FEE, YOU INDICATE YOUR ACCEPTANCE OF
+THE TERMS AND CONDITIONS CONTAINED IN LICENSE.TXT.
+
+IF YOU DO NOT AGREE WITH ANY OF THESE TERMS AND CONDITIONS CONTAINED
+IN THIS AGREEMENT OR THE LICENSE.TXT, DO NOT DOWNLOAD, COPY, INSTALL,
+OR USE THE SOFTWARE; IF YOU HAVE RECEIVED A COPY ON DVD OR ANOTHER
+MEDIUM, PLEASE PROMPTLY RETURN THE SOFTWARE UNUSED TO ALTERA OR THE
+ALTERA AUTHORIZED DISTRIBUTOR FROM WHICH YOU PURCHASED A LICENSE TO
+THE SOFTWARE.
+
+IF YOU WISH TO PRINT OUT THIS AGREEMENT AND THE LICENSE.TXT, YOU
+SHOULD HIGHLIGHT THIS TEXT, RIGHT-CLICK, SELECT "COPY" THEN "PASTE" IT
+INTO A DOCUMENT IN YOUR WORD PROCESSING PROGRAM.
+
+1.  Definitions:
+
+"IP megafunctions or components" means one or more design files,
+including encrypted net lists, RTL, test vectors, simulation models
+(such as VHDL, Verilog HDL, Quartus simulation, Matlab, Simulink,
+Verisity Specman, Synopsys Vera, etc.), and other models, which may be
+provided either as unencrypted source code, obfuscated source code or
+in encrypted netlist or encrypted source code format, that are
+designed to implement or support the design of at least one logic
+function into an Altera logic device.  "IP megafunctions or
+components" includes any updates thereto or modified versions thereof
+as may be provided by Altera, in its sole and absolute discretion, to
+Licensee under this Agreement.  "IP megafunctions or components" does
+not include any software or design files for any MegaCore(r) functions
+(including the Nios(r) II embedded processor) distributed by Altera,
+which are covered by a separate MegaCore(r) Function License
+Agreement.
+
+"Licensed Program" means whichever features of the Software that are
+enabled by the software protection mechanism corresponding to the
+configuration Licensee has licensed.
+
+"Licensee" means you.
+
+"Software" means any of the software provided under this Agreement on
+DVD, via a web-site, or on another medium or through another delivery
+mechanism, including any non-subscribed or unenabled features thereof,
+any IP megafunctions or components provided with the Software (except
+as noted in definition of "IP megafunctions or components" above), and
+any associated user documentation.  "Software" does not include
+components, files, or portions identified in particular files, which
+components, files, or portions are subject to the applicable license
+agreement(s) set forth therein.
+
+"Support" means any services provided to Licensee by Altera, Altera
+Authorized Distributors, and Altera authorized sales representatives
+in responding to email, telephone, or other inquiries from Licensee
+for maintenance, technical, or other support.
+
+2.  License to the Licensed Program:  By this Agreement, Altera hereby
+grants to Licensee a non-exclusive license to use the Licensed Program
+(and any updates thereof for which Licensee have paid a subscription
+fee or other applicable fee to Altera or an Altera Authorized
+Distributor) on the terms and conditions set forth in this Agreement.
+Any features for which Licensee has not paid a subscription fee other
+applicable fee to Altera or an Altera Authorized Distributor or any
+other unenabled features of the Software (unless Altera or the Altera
+Authorized Distributor provides a software protection enabling key or
+code for such unenabled features) are unlicensed, and Licensee agrees
+not to use or access such features.  Certain licenses to the Licensed
+Program are time limited, to the extent designated by Altera or the
+Altera Authorized Distributor and as such may be set forth in the
+feature line license key that is issued and will automatically
+time-out at the end of the designated period.
+
+The source code of the Software and the algorithms, concepts,
+techniques, methods, and processes embodied therein constitute trade
+secrets and confidential and proprietary information of Altera and its
+licensors, and Licensee shall not access or use such trade secrets and
+information in any manner, except to the extent expressly permitted
+herein.  Altera and its licensors retain all title, copyright, patent,
+and other proprietary rights therein. Licensee agrees not to remove or
+obscure any copyright, trademark, or patent notices found in or on any
+user documentation or the Software.
+
+Pursuant to this Agreement, Licensee may: (a) use the Licensed Program
+on a single computer (or, if Licensee has purchased a floating node
+license, the number of concurrent users for which Licensee has
+obtained licenses from Altera may use the Licensed Program on
+networked workstations); (b) use the Licensed Program for the sole
+purpose of creating, simulating, verifying, placing and routing, and
+programming designs on logic devices manufactured by Altera and sold
+by Altera or its authorized distributors, although if Licensee has
+obtained the Licensed Program through Altera's University Program or
+obtained a Student Version, Licensee is only permitted to use the
+Licensed Program for educational and academic purposes only and
+expressly excluding any commercial purposes; (c) Licensee may only use
+simulation model output files generated by the "Simgen" feature of the
+Licensed Software for simulation purposes and expressly not for
+synthesis or any other purposes; (d) make one copy of the Licensed
+Program in any computer-readable or printed form for back-up or
+archival purposes or as otherwise permitted under this Agreement; and
+(e) modify the Licensed Program and/or merge it into another program
+solely in order to facilitate the management of software licensing
+controls of the Licensed Program and third party software licensed
+using Flex LM software, provided all intellectual property notices
+including copyright and restricted rights notices appearing on the
+Licensed Program are included on any such copy, modification, or
+portion merged or combined with the other program. Any copy or portion
+of the Licensed Program merged into another program will continue to
+be subject to the terms and conditions of this Agreement.  Licensee's
+end customers may use Altera's logic devices that have been programmed
+with the Licensed Program.
+
+The Licensed Program may be transferred to another party provided the
+other party agrees to accept the terms and conditions of this
+Agreement and Licensee notifies Altera in writing of the identity of
+the transferee. If Licensee transfers the Licensed Program in
+accordance with the foregoing sentence, Licensee must at the same time
+either transfer all copies, whether in printed or computer-readable
+form, to the same party or destroy any copies not transferred,
+including all portions of the Licensed Program contained or merged
+into another program, and certify the same to Altera. If Licensee has
+purchased a floating node license as provided above, Licensee may also
+copy the Licensed Program onto another computer (or access it through
+networked workstations) for use by another person or persons within
+your company only; provided that all users agree to accept the terms
+and conditions of this Agreement.
+
+LICENSEE MAY NOT USE, COPY, MODIFY, DISTRIBUTE, OR TRANSFER THE
+SOFTWARE OR ANY COPY, OR MERGED OR COMBINED PORTION THEREOF, IN WHOLE
+OR IN PART, EXCEPT AS EXPRESSLY PROVIDED FOR IN THIS AGREEMENT.
+LICENSEE SHALL NOT USE THE SOFTWARE TO PROGRAM ANY DEVICE OTHER THAN
+THOSE DESIGNED BY ALTERA.  IF LICENSEE TRANSFERS POSSESSION OF ANY
+COPY, OR MERGED OR COMBINED PORTION OF THE SOFTWARE, TO ANOTHER PARTY
+EXCEPT AS EXPRESSLY PROVIDED HEREIN, LICENSEE'S LICENSE IS
+AUTOMATICALLY TERMINATED. LICENSEE MAY NOT DECOMPILE, DISASSEMBLE,
+REVERSE ENGINEER, OR OTHERWISE ATTEMPT TO ACCESS THE SOURCE CODE OF
+THE SOFTWARE OR REDUCE IT TO A HUMAN READABLE FORM; PROVIDED, HOWEVER,
+THAT IF LICENSEE IS LOCATED IN A MEMBER NATION OF THE EUROPEAN
+COMMUNITY OR OTHER JURISDICTION THAT PERMITS LIMITED REVERSE
+ENGINEERING, LICENSEE MAY PERFORM LIMITED REVERSE ENGINEERING, BUT
+ONLY AFTER GIVING NOTICE TO ALTERA AND ONLY TO THE EXTENT PERMITTED BY
+THE EC SOFTWARE DIRECTIVE OR OTHER APPLICABLE LAW.  LICENSEE MAY NOT
+PUBLISH OR DISCLOSE THE RESULTS OF ANY BENCHMARKING OF THE SOFTWARE,
+OR USE SUCH RESULTS FOR LICENSEE'S OWN COMPETING SOFTWARE DEVELOPMENT
+ACTIVITIES, WITHOUT THE PRIOR WRITTEN PERMISSION OF ALTERA.
+
+If Licensee has paid a subscription fee or other applicable fee to
+Altera or an Altera Authorized Distributor, Altera or such Altera
+Authorized Distributor, as the case may be, shall, but only until the
+date through which Licensee has purchased a valid subscription or paid
+the applicable fees, provide Licensee with fixes and other updates to
+the Licensed Program that Altera chooses to make generally available
+to its customers who have paid a subscription fee or other applicable
+fee to Altera or the Altera Authorized Distributor; and use
+commercially reasonable efforts to respond by telephone or email to
+inquiries from Licensee for technical or other Support regarding the
+Licensed Program.  Any information collected by Altera or the Altera
+Authorized Distributor from Licensee pursuant to any requests from
+Licensee for Support, including design files compiled using the
+Licensed Program and provided by Licensee to Altera or the Altera
+Authorized Distributor for design assistance, enhancement, and
+troubleshooting, may be used internally at Altera for the purpose of
+improving the future versions of the Software and other future
+products.  Any such information will not be disclosed by Altera to any
+third parties other than its subsidiaries, its authorized
+distributors, its authorized sales representatives, and to the company
+on behalf of whom user is using the Licensed Program.  Altera shall
+exercise reasonable efforts to maintain the confidentiality of the
+information.
+
+3. Altera's Licensors:  The Software may contain or be derived from
+portions of code and documentation provided by third parties ("Third
+Party Licensors") who may include, without limitation, Sun
+Microsystems, Inc., The Regents of the University of California,
+Softel vdm, Verific Design Automation, Inc., and Compass Design
+Automation, Inc. under license to Altera.  Altera has assumed
+responsibility for the selection of such code and documentation and
+its use in producing and licensing the Licensed Program. THIRD PARTY
+LICENSORS DISCLAIM ALL EXPRESS OR IMPLIED WARRANTIES AND CONDITIONS
+WITH RESPECT TO THE USE OF SUCH CODE OR DOCUMENTATION IN THE SOFTWARE,
+INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.  THIRD
+PARTY LICENSORS DISCLAIM ALL LIABILITY FOR DAMAGES, INCLUDING, BUT NOT
+LIMITED TO, DIRECT, INDIRECT, SPECIAL, INCIDENTAL, AND CONSEQUENTIAL
+DAMAGES, SUCH AS EXPENSES, RECALL COSTS, BUSINESS INTERRUPTION
+DAMAGES, LOSS OF OR DAMAGE TO INFORMATION, LOST PROFITS, LOST SAVINGS,
+OR OTHER DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE
+SOFTWARE.
+
+4. Term:  The license is effective until terminated. Licensee may
+terminate it at any time by destroying the Software together with all
+copies, modifications, and merged portions thereof in any form. It
+will also terminate upon conditions set forth elsewhere in this
+Agreement or if Licensee fails to comply with any term or condition of
+this Agreement. Licensee agrees upon such termination to destroy the
+Software together with all copies, and merged or combined portions
+thereof in any form and certify same to Altera.
+
+5. Limited Warranty and Remedies:  For a period of ninety (90) days
+from the date of Licensee's first receipt from Altera or the Altera
+Authorized Distributor, as the case may be, of the software protection
+code or key to enable the Licensed Program, Altera warrants to
+Licensee that (a) the Licensed Program will perform substantially in
+accordance with Altera's current program documentation, if used in
+compliance with the terms of this Agreement, and (b) the DVD, if any,
+on which the Software is furnished will be free from defects in
+materials and workmanship under normal use. This warranty is limited
+to Licensee and is not transferable.
+
+During the 90-day warranty period, (1) Altera (directly or through the
+Altera Authorized Distributor) will replace any Licensed Program or
+DVD not meeting the foregoing warranty and which is returned to Altera
+or the Altera Authorized Distributor with adequate proof of purchase;
+or (2) if Altera (directly or through the Altera Authorized
+Distributor) is unable to deliver a replacement Licensed Program that
+performs substantially in accordance with Altera's current program
+documentation or a DVD that is free of defects in materials or
+workmanship, Licensee may terminate this Agreement by returning the
+Software to Altera. Any replacement Licensed Program or DVD will be
+warranted for the remainder of the original warranty period or thirty
+(30) days, whichever is longer.
+
+THE FOREGOING WARRANTY DOES NOT EXTEND TO ANY DVD THAT HAS BEEN
+DAMAGED AS A RESULT OF ACCIDENT, MISUSE, ABUSE, OR AS A RESULT OF
+SERVICE OR MODIFICATION BY ANYONE OTHER THAN ALTERA OR THE ALTERA
+AUTHORIZED DISTRIBUTOR.
+
+EXCEPT AS EXPRESSLY SET FORTH ABOVE, NO OTHER WARRANTIES OR
+CONDITIONS, EITHER EXPRESS OR IMPLIED, ARE MADE WITH RESPECT TO THE
+SOFTWARE OR SUPPORT PROVIDED BY ALTERA OR ANY ALTERA AUTHORIZED
+DISTRIBUTOR, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND WARRANTIES OR
+CONDITIONS OF TITLE AND NONINFRINGEMENT, AND ALTERA AND THE ALTERA
+AUTHORIZED DISTRIBUTOR EXPRESSLY DISCLAIM ALL WARRANTIES NOT STATED
+HEREIN. LICENSEE ASSUMES THE ENTIRE RISK AS TO THE QUALITY AND
+PERFORMANCE OF THE SOFTWARE. SHOULD THE SOFTWARE PROVE DEFECTIVE,
+LICENSEE AND NOT ALTERA OR THE ALTERA AUTHORIZED DISTRIBUTOR SHALL
+ASSUME THE ENTIRE COST OF NECESSARY SERVICING, REPAIR, OR CORRECTION.
+Some jurisdictions do not allow the exclusion of implied warranties,
+so the above exclusion may not apply to Licensee in full, but shall be
+interpreted to apply to the maximum extent permissible under
+applicable law.
+
+ALTERA AND THE ALTERA AUTHORIZED DISTRIBUTOR DO NOT WARRANT THAT THE
+FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS,
+OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR
+ERROR-FREE. LICENSEE ALSO ASSUMES RESPONSIBILITY FOR THE SELECTION OF
+THE SOFTWARE TO ACHIEVE LICENSEE'S INTENDED RESULTS AND FOR THE
+INSTALLATION, USE, AND RESULTS OBTAINED FROM THE SOFTWARE.
+
+LICENSEE'S SOLE REMEDIES AND ALTERA'S AND THE ALTERA AUTHORIZED
+DISTRIBUTOR'S ENTIRE LIABILITY ARE AS SET FORTH ABOVE.  IN NO EVENT
+WILL ALTERA AND THE ALTERA AUTHORIZED DISTRIBUTOR BE LIABLE TO
+LICENSEE OR ANY OTHER PERSON FOR ANY DAMAGES, INCLUDING ANY DIRECT,
+INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EXPENSES,
+RECALL COSTS, BUSINESS INTERRUPTION DAMAGES, LOSS OF OR DAMAGE TO
+INFORMATION, LOST PROFITS, LOST SAVINGS, OR OTHER DAMAGES ARISING OUT
+OF THE USE OF OR INABILITY TO USE THE SOFTWARE OR ANY SUPPORT PROVIDED
+BY ALTERA OR THE ALTERA AUTHORIZED DISTRIBUTOR. Some jurisdictions do
+not allow the limitation or exclusion of special, incidental, or
+consequential damages, so the above limitations or exclusions may not
+apply to Licensee in full but shall be interpreted to apply to the
+maximum extent permissible under applicable law.
+
+THIS WARRANTY GIVES LICENSEE SPECIFIC LEGAL RIGHTS, AND LICENSEE MAY
+ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+To the extent that the Software is derived from third-party software,
+no such third party warrants the Software, assumes any liability
+regarding use of the Software or undertakes to furnish Licensee any
+support or information relating to the Software.
+
+6. Representations:  Altera represents to Licensee that Altera has the
+right to enter into this Agreement. With the exception of any portion
+of the Software that is licensed by Altera from its Third Party
+Licensors, the Software is proprietary to Altera.
+
+7. General:  Under no circumstances shall Altera or an Altera
+Authorized Distributor be liable to any party in an amount beyond the
+greater of ten dollars or the license fee paid by Licensee to Altera
+or the Altera Authorized Distributor for the Licensed Program,
+Software, or Support covered by this Agreement.  Licensee may not
+sublicense, assign, or transfer the license, the Software, or disclose
+any trade secrets embodied in the Software, except as expressly
+provided in this Agreement. Any attempt otherwise to sublicense,
+assign, or transfer any of the rights, duties, or obligations
+hereunder is void and shall automatically terminate this license.
+Licensee agrees not to knowingly, directly or indirectly, without the
+prior written consent, if required, of the Office of Export
+Administration of the US Department of Commerce, Washington D.C.
+20230, export or transmit any of the Software, or any direct product
+thereof, to any country to which such transmission is restricted by
+applicable regulations or statutes.
+
+This Agreement is entered into for the benefit of Altera, the Altera
+Authorized Distributor, and the Third Party Licensors, and all rights
+granted to Licensee and all obligations owed to Altera and the Altera
+Authorized Distributor shall be enforceable by Altera, the Altera
+Authorized Distributor, and the Third Party Licensors.  No
+modification of this Agreement will be binding unless in writing and
+signed by authorized representatives of each party.  If any of the
+provisions of this Agreement are held to be in violation of applicable
+law, void or unenforceable, then such provisions are herewith waived
+or amended to the extent necessary for the Agreement to be otherwise
+enforceable.  If Licensee has any questions concerning this Agreement,
+including software maintenance or warranty service, Licensee should
+contact Altera Corporation, 101 Innovation Drive, San Jose, CA 95134.
+
+
+This Agreement will be governed by the laws of the State of
+California, United States of America. Licensee agrees to submit to the
+exclusive jurisdiction of the courts in the County of Santa Clara,
+State of California for the resolution of any dispute or claim arising
+out of or relating to this Agreement.  The prevailing party in any
+legal action or arbitration arising out of this Agreement shall be
+entitled to reimbursement for its expenses, including court costs and
+reasonable attorneys' fees, in addition to any other rights and
+remedies such party may have.
+
+BY INSTALLING OR USING THE SOFTWARE OR BY PAYING A SUBSCRIPTION OR
+OTHER APPLICABLE FEE, LICENSEE ACKNOWLEDGES THAT LICENSEE HAS READ
+THIS AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE BOUND BY ITS TERMS
+AND CONDITIONS. LICENSEE FURTHER AGREES THAT IT IS THE COMPLETE AND
+EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN LICENSEE AND ALTERA AND
+SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY
+OTHER COMMUNICATIONS BETWEEN LICENSEE AND ALTERA RELATING TO THE
+SUBJECT MATTER OF THIS AGREEMENT.
+
+8. U.S. Government Restricted Rights: The Software and any
+accompanying documentation are commercial products. Use, duplication,
+release, modification, transfer or disclosure thereof by the U.S.
+Government is subject to restrictions as set forth in subparagraph (c)
+of The Rights in Technical Data and Computer Software clause at DFARS
+252.227-7013 or subparagraphs (c)(1) and (2) of Commercial Computer
+Software--Restricted Rights at 48 FAR 52.227-19, as applicable, or in
+similar or successor clauses in the FAR, DFAR, or DOD or applicable
+supplements, including NASA or FAR. Contractor/manufacturer is Altera
+Corporation, 101 Innovation Drive, San Jose, CA 95134 and its
+licensors.
+
+9. TalkBack Feature Notice :  The TalkBack feature, included with the
+Software, enables Altera to receive limited information concerning the
+Software that Licensee uses and Licensee's compilation of logic
+designs (but not the logic design files themselves) using the
+Software.  One of the primary purposes of the TalkBack feature is to
+assist Altera in understanding how its customers use the Software and
+Altera's other products, so more effort can be placed on improving the
+features most important to users.  To disable/enable the TalkBack
+feature, run qtb_install.exe located in Licensee's quartus/bin folder.
+
+INFORMATION COLLECTED
+The only information that Altera will receive through the TalkBack
+feature is the information listed below.  No design files will be
+collected or transmitted through the TalkBack feature.
+
+Logic design compilation information regarding the following
+categories will be collected: constraints (e.g., location assignments,
+clock and timing requirement and assignments, any constraints set via
+the Quartus? II graphical user interface), device (e.g., targeted
+device and family), compilation (e.g., device, memory and I/O
+utilization, time of compilation), design (e.g., the number of each
+type of file used and name of top file, intellectual property
+cores/MegaCore(r) logic functions used), software tools (e.g.,
+synthesis, simulation and timing analysis tools used and version and
+build of the Software), platform (e.g., operating system, speed and
+number of processors and main memory), license file identification
+number (T-Guard, host ID, NIC ID or C: drive), graphical user
+interface activities and software errors log (e.g., previous exit
+status).
+
+TRANSMISSION OF INFORMATION
+The TalkBack feature functions by bundling the collected information
+resulting from Licensee's installation and/or execution of the
+Software and each logic design compilation and writing it to XML files
+which are transmitted to Altera's external web server by https
+(hypertext transfer protocol secure) post.
+
+The TalkBack feature will only maintain up to fifteen (15) files at
+any given time, i.e., the last five (5) sent files and up to ten (10)
+unsent files.  As new files are created, prior files (whether or not
+previously transmitted) will be deleted.  Each saved file will be less
+than 500 KB in size and can be viewed as text files found in
+Licensee's temporary directory on Licensee's hard drive (typically in
+/tmp, c:/temp, or c:\documents and setting\username\local
+settings\temp).
+
+If an https post transmission fails, or an internet connection is not
+available at the time of installation, execution or compilation, the
+information is stored as an XML file.  Once an internet connection is
+achieved by Licensee, the https post transmission will again be
+attempted upon a successful compilation.  The TalkBack feature will
+not initiate an internet connection.  Files that have not been
+successfully transmitted will be named "quartus_talkback*.xml", while
+successfully transmitted files will be renamed as
+"sent_quartus_talkback*.xml."
+
+The collection and bundling of information by the TalkBack feature
+will not materially affect the installation, compilation time or the
+performance of the Software.
+
+Altera uses reasonable efforts to maintain the privacy of the
+transmitted information.  However, due to technological limitations,
+and the risk of unlawful interceptions and accessing of transmissions
+and/or data, Altera cannot completely assure Licensee, and Licensee
+should not expect, that the information will be absolutely protected
+or confidential.  Once received, the transmitted information is
+protected from outside Altera by "firewalls."
+
+Should Licensee attempt to tamper with or modify any installation of
+the Software in any way (other than as permitted herein or by
+Licensee's license), Altera does not take any responsibility regarding
+the operation of the TalkBack feature, or the collection and
+transmission of data as described herein.
+
+NON-DISCLOSURE OF INFORMATION COLLECTED; USE OF INFORMATION
+The information collected by the TalkBack feature will not be
+disclosed by Altera to any third parties other than its subsidiaries
+and the company on behalf of whom Licensee is using the Quartus II
+software (collectively, "Partners").  Once the collected data is
+received by Altera within its firewall, Altera may correlate the data
+collected by the TalkBack feature to determine the identity of the
+user and utilize this information internally only on a confidential
+basis.  Altera also seeks to require its Partners to exercise
+reasonable efforts to maintain the confidentiality of the information.
+
+
+The information collected by the TalkBack feature will only be used by
+Altera and its Partners for marketing and sales research, product
+planning and software development purposes (for example, solving
+software problems, optimizing software processing and designing future
+products to Licensee's needs).    This information will not be used to
+send Licensee any sales and marketing communications, and Altera will
+only send Licensee such information if Licensee has previously
+provided Licensee's consent to receive such communications.  If
+Licensee does not wish to receive sales and marketing communications,
+Licensee may contact webmaster@altera.com.  In that case, Altera will
+use reasonable efforts to promptly remove Licensee from such lists.
+
+EUROPEAN USERS OF THE SOFTWARE: Please note that the TalkBack feature
+will collect and provide certain personally identifiable information
+to Altera.  By agreeing to this Agreement, Licensee hereby gives
+Licensee's consent for Altera to use this information both within and
+outside of the European Union for the purposes described in this
+TalkBack disclosure notice.
+
+ACCESS TO INFORMATION BY ISPS
+Through the https post procedure, Licensee's and Altera's Internet
+Service Providers will also receive the information collected by the
+TalkBack feature.  However, ALTERA'S ISP does not disclose, share,
+release, publish, disseminate, rent or sell any of the information to
+any third parties. Licensee should contact Licensee's ISP to determine
+their disclosure policies.
+
+REQUIRED DISCLOSURES
+In addition to the permitted disclosures described herein, and
+regardless of anything herein to the contrary, Altera may disclose
+personally identifiable information (collected by the TalkBack feature
+and correlated to users), with or without prior notice, when Altera
+believes that the law requires it, in response to subpoenas or at the
+demand of governmental agencies, to protect its systems or business,
+or to respond to an emergency.
+
+ASSIGNMENT
+Altera reserves the right to transfer any and all information
+collected by the TalkBack feature from users of the Software to a
+third party in the event that it sells or transfers substantially all
+of its assets related to the Software to such third party.
+
+DISABLING/ENABLING
+Licensee may disable/enable the TalkBack feature at any time by
+running qtb_install.exe located in Licensee's quartus/bin folder.
+
+10.	Quartus II Notifications Feature Notice : The Quartus II
+notifications feature, included with the Licensed Program(s), enables
+ALTERA to receive limited information concerning the Licensed
+Program(s) that you use and your compilation of logic designs (but not
+the logic design files themselves) using the Licensed Program(s). The
+primary purpose of the Quartus II notifications feature is to help
+users monitor their compliations from any location and receive
+notifications when their jobs complete. To disable/enable the Quartus
+II notifications feature, individual users may make the appropriate
+setting in the Quartus II software "Options > Internet Connectivity >
+Notifications" dialog box. Administrators may also, at install time,
+deselect the entire feature to prevent the feature from being exposed
+to their users in corporate or team environments.
+
+INFORMATION COLLECTED
+The only information that ALTERA will receive through the Quartus II
+notifications feature is the information listed below. No design files
+will be collected or transmitted through the Quartus II notifications
+feature.
+
+The following information may be transmitted to a cloud server, either
+hosted by ALTERA or an ALTERA service provider, to enable the feature
+from the Quartus II software: project revision name, local computer
+hostname, progress tracking information (such as the percentage
+complete for the overall compile as well as individual Quartus II
+executable stages), and critical warnings or error messages.
+
+TRANSMISSION OF INFORMATION
+The Quartus II notifications feature functions by periodically sending
+status information resulting from the execution of the Licensed
+Program(s) and each logic design compilation and sending them to
+ALTERA'S external web server by https (hypertext transfer protocol
+secure) network connections.  The Quartus II software must be
+preconfigured with the user's ALTERA cloud user account (available to
+any customer by registering at https://cloud.altera.com with a valid
+email address) for the feature to work. If the user's ALTERA cloud
+account is deleted or revoked, then the Quartus II software will not
+send any status information for the Quartus II notifications feature
+to the ALTERA cloud server.
+
+If an https transmission fails, or an internet connection is not
+available at the time of execution or compilation, the Quartus II
+notifications feature will abandon attempts to send the status
+information during the remaining course of the compilation. The
+collection and bundling of information by the Quartus II notifications
+feature will not materially affect the installation, compilation time
+or the performance of the Licensed Program(s).
+
+ALTERA uses reasonable efforts to maintain the privacy of the
+transmitted information. However, due to technological limitations,
+and the risk of unlawful interceptions and accessing of transmissions
+and/or data, ALTERA cannot completely assure you, and you should not
+expect, that the information will be absolutely protected or
+confidential. Once received, the transmitted information is protected
+from outside ALTERA by "firewalls."
+
+Should you attempt to tamper with or modify any installation of the
+Licensed Program(s) in any way (other than as permitted herein or by
+your license), ALTERA does not take any responsibility regarding the
+operation of the Quartus II notifications feature, or the collection
+and transmission of data as described herein.
+
+ACCESS TO INFORMATION ON THE ALTERA CLOUD SITE
+All users have the ability to view the compile data transmitted by
+logging into the https://cloud.altera.com ALTERA cloud site with the
+same user account specified when enabling the Quartus II notifications
+feature.  From this site, users can browse the compile status data, or
+delete/purge results as they wish.
+
+NON-DISCLOSURE OF INFORMATION COLLECTED; USE OF INFORMATION
+The information collected by the Quartus II notifications feature will
+not be disclosed by ALTERA to any third parties other than as
+necessary for the purposes described in this Quartus II notifications
+disclosure notice, including third-party providers, its subsidiaries
+and the company on behalf of whom you are using the Quartus II
+software (collectively, Partners) . Once the collected data is
+received by ALTERA within their firewall, ALTERA may correlate the
+data collected by the Quartus II notifications feature to determine
+the identity of the user and utilize this information internally only
+on a confidential basis. ALTERA also seeks to require its Partners to
+exercise reasonable efforts to maintain the confidentiality of the
+information.
+
+The information collected by the Quartus II notifications feature will
+only be used by ALTERA and its Partners for marketing and sales
+research , product planning and software development purposes (for
+example, solving software problems, optimizing software processing and
+designing future products to your needs). This information will not be
+used to send you any sales and marketing communications, and ALTERA
+will only send you such information if you have previously provided
+your consent to receive such communications. If you do not wish to
+receive sales and marketing communications, you may contact
+webmaster@altera.com. In that case, we will use reasonable efforts to
+promptly remove you from such lists.
+
+EUROPEAN USERS OF THE SOFTWARE: Please note that the Quartus II
+notifications feature will collect and provide certain personally
+identifiable information to ALTERA. By agreeing to this Program
+Subscription License Agreement, you hereby give your consent for
+ALTERA to use this information both within and outside of the European
+Union for the purposes described in this Quartus II notifications
+disclosure notice.
+
+ACCESS TO INFORMATION BY ISPS
+Through the https post procedure, your and ALTERA's Internet Service
+Providers will also receive the information collected by the Quartus
+II notifications feature. However, ALTERA'S ISP does not disclose,
+share, release, publish, disseminate, rent or sell any of the
+information to any third parties. You should contact your ISP to
+determine their disclosure policies.
+
+REQUIRED DISCLOSURES
+In addition to the permitted disclosures described herein, and
+regardless of anything herein to the contrary, ALTERA may disclose
+personally identifiable information (collected by the Quartus II
+notifications feature and correlated to users), with or without prior
+notice, when ALTERA believes that the law requires it, in response to
+subpoenas or at the demand of governmental agencies, to protect its
+systems or business, or to respond to an emergency.
+
+ASSIGNMENT
+ALTERA reserves the right to transfer any and all information
+collected by the Quartus II notifications feature from users of the
+Licensed Program(s) to a third party in the event that it sells or
+transfers substantially all of its assets related to the Licensed
+Program(s) to such third party.
+
+DISABLING/ENABLING
+The Quartus II notifications feature may be deselected at install time
+to allow administrators to prevent the feature from being exposed to
+their users in corporate or team environments. If installed, you may
+disable/enable the Quartus II notifications feature at any time by
+making the appropriate setting in the Quartus II "Options > Internet
+Connectivity > Notifications" dialog box in the Quartus II software
+graphical user interface.
+
+Altera Program Subscription License Agreement (c) 2012 Altera
+Corporation.  All rights reserved. Quartus is a registered trademark
+of Altera Corporation in the US and other countries.
+
+
+[END OF ALTERA PROGRAM SUBSCRIPTION LICENSE AGREEMENT]
+
+
+LICENSE.TXT FILE TO ALTERA PROGRAM SUBSCRIPTION LICENSE AGREEMENT:
+
+YOUR USE OF THIS SOFTWARE IS GOVERNED BY THE STANDARD ALTERA PROGRAM
+LICENSE SUBSCRIPTION AGREEMENT ("THE AGREEMENT").  HOWEVER, THE
+FOLLOWING NOTICES ARE PROVIDED AS REQUIRED BY THE APPLICABLE LICENSE
+AGREEMENT BETWEEN ALTERA AND THE THIRD PARTIES WHO HAVE PROVIDED  THE
+FOLLOWING CODE AND DOCUMENTATION UNDER LICENSE TO ALTERA AS SPECIFIED
+IN SECTION 3 OF THE AGREEMENT.
+
+1. APACHE (XERCES COMPILED LIBRARY) [FOR QUARTUS II]:
+
+The following terms only apply to the Apache software portions of the
+Quartus II development tools:
+
+ * The Apache Software License, Version 1.1
+ *
+ *
+ * Copyright (c) 1999-2000 The Apache Software Foundation.  All rights
+
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above
+copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution,
+ *    if any, must include the following acknowledgment:
+ *       "This product includes software developed by the
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowledgment may appear in the software
+itself,
+ *    if and wherever such third-party acknowledgments normally
+appear.
+ *
+ * 4. The names "Xerces" and "Apache Software Foundation" must
+ *    not be used to endorse or promote products derived from this
+ *    software without prior written permission. For written
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache",
+ *    nor may "Apache" appear in their name, without prior written
+ *    permission of the Apache Software Foundation.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ *
+====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation and was
+ * originally based on software copyright (c) 1999, International
+ * Business Machines, Inc., http://www.ibm.com.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
