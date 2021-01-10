@@ -1,0 +1,321 @@
+_id,Name,Sem,Project Title
+5f6cb75eb4f133e8fa67fc26,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f6cb75eb4f133e8fa67fc27,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f6cb75eb4f133e8fa67fc28,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f6cb75eb4f133e8fa67fc29,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f6cb75eb4f133e8fa67fc2a,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f6cb75eb4f133e8fa67fc2b,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f6cb75eb4f133e8fa67fc2c,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f6cb75eb4f133e8fa67fc2d,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f6cb75eb4f133e8fa67fc2e,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f6cb75eb4f133e8fa67fc2f,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f6cb75eb4f133e8fa67fc30,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f6cb75eb4f133e8fa67fc31,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f6cb75eb4f133e8fa67fc32,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f6cb75eb4f133e8fa67fc33,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f6cb75eb4f133e8fa67fc34,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f6cb75eb4f133e8fa67fc35,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f6cb75eb4f133e8fa67fc36,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f6cb75eb4f133e8fa67fc37,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f6cb75eb4f133e8fa67fc38,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f6cb75eb4f133e8fa67fc39,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f6cb75eb4f133e8fa67fc3a,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f6cb75eb4f133e8fa67fc3b,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f6cb75eb4f133e8fa67fc3c,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f6cb75eb4f133e8fa67fc3d,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f6cb75eb4f133e8fa67fc3e,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f6cb75eb4f133e8fa67fc3f,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f6cb75eb4f133e8fa67fc40,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f6cb75eb4f133e8fa67fc41,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f6cb75eb4f133e8fa67fc42,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f6cb75eb4f133e8fa67fc43,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f6cb75eb4f133e8fa67fc44,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f6cb75eb4f133e8fa67fc45,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f6cb75eb4f133e8fa67fc46,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f6cb75eb4f133e8fa67fc47,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f6cb75eb4f133e8fa67fc48,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f6cb75eb4f133e8fa67fc49,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f6cb75eb4f133e8fa67fc4a,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f6cb75eb4f133e8fa67fc4b,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f6cb75eb4f133e8fa67fc4c,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f6cb75eb4f133e8fa67fc4d,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cca05aa04d1100c8857,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cca05aa04d1100c884c,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cca05aa04d1100c8867,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cca05aa04d1100c884f,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cca05aa04d1100c884e,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cca05aa04d1100c8850,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904cca05aa04d1100c8854,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cca05aa04d1100c8856,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cca05aa04d1100c8853,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cca05aa04d1100c886a,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cca05aa04d1100c8851,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cca05aa04d1100c884d,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904cca05aa04d1100c8872,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cca05aa04d1100c8855,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cca05aa04d1100c8859,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cca05aa04d1100c8868,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cca05aa04d1100c886c,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cca05aa04d1100c886f,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cca05aa04d1100c885d,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cca05aa04d1100c885e,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904cca05aa04d1100c8860,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cca05aa04d1100c8863,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cca05aa04d1100c8861,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cca05aa04d1100c8852,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cca05aa04d1100c8858,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cca05aa04d1100c8865,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cca05aa04d1100c886b,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cca05aa04d1100c8873,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cca05aa04d1100c886d,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cca05aa04d1100c8871,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cca05aa04d1100c8862,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cca05aa04d1100c8864,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cca05aa04d1100c8870,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f904cca05aa04d1100c885a,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cca05aa04d1100c885b,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cca05aa04d1100c885c,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904cca05aa04d1100c8866,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cca05aa04d1100c886e,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cca05aa04d1100c885f,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cca05aa04d1100c8869,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cf69aeddf93b05343c3,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cf69aeddf93b05343c6,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cf69aeddf93b05343c9,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cf69aeddf93b05343e3,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cf69aeddf93b05343c4,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904cf69aeddf93b05343d1,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cf69aeddf93b05343c7,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904cf69aeddf93b05343d9,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cf69aeddf93b05343d6,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cf69aeddf93b05343e9,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cf69aeddf93b05343dc,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cf69aeddf93b05343dd,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cf69aeddf93b05343e7,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f904cf69aeddf93b05343df,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cf69aeddf93b05343d0,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cf69aeddf93b05343c8,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cf69aeddf93b05343d4,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904cf69aeddf93b05343d7,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cf69aeddf93b05343d8,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cf69aeddf93b05343e6,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cf69aeddf93b05343e8,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cf69aeddf93b05343db,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cf69aeddf93b05343e1,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904cf69aeddf93b05343d2,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cf69aeddf93b05343cf,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cf69aeddf93b05343c5,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904cf69aeddf93b05343cb,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904cf69aeddf93b05343d3,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904cf69aeddf93b05343cd,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cf69aeddf93b05343e0,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cf69aeddf93b05343e4,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904cf69aeddf93b05343d5,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904cf69aeddf93b05343da,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904cf69aeddf93b05343de,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904cf69aeddf93b05343ca,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cf69aeddf93b05343cc,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cf69aeddf93b05343ce,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904cf69aeddf93b05343e5,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904cf69aeddf93b05343e2,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904cf69aeddf93b05343ea,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904ea7a97440e0b959465f,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904ea7a97440e0b959466a,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904ea7a97440e0b959466d,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904ea7a97440e0b9594670,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904ea7a97440e0b959467d,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904ea7a97440e0b959465a,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904ea7a97440e0b9594657,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904ea7a97440e0b9594664,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904ea7a97440e0b9594678,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904ea7a97440e0b9594667,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904ea7a97440e0b959465d,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904ea7a97440e0b959465c,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904ea7a97440e0b9594669,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904ea7a97440e0b9594671,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904ea7a97440e0b9594660,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904ea7a97440e0b9594675,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904ea7a97440e0b9594662,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904ea7a97440e0b959466c,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904ea7a97440e0b959466b,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904ea7a97440e0b959466e,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904ea7a97440e0b9594674,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904ea7a97440e0b9594677,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904ea7a97440e0b9594679,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904ea7a97440e0b959466f,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904ea7a97440e0b9594658,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f904ea7a97440e0b9594656,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904ea7a97440e0b9594659,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f904ea7a97440e0b959465e,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f904ea7a97440e0b9594663,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f904ea7a97440e0b9594666,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f904ea7a97440e0b9594668,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f904ea7a97440e0b9594673,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904ea7a97440e0b9594676,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f904ea7a97440e0b959467a,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f904ea7a97440e0b9594661,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f904ea7a97440e0b959465b,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f904ea7a97440e0b9594672,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f904ea7a97440e0b959467c,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f904ea7a97440e0b9594665,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f904ea7a97440e0b959467b,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085c33082b90cf5623012,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085c33082b90cf562301d,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085c33082b90cf562301f,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085c33082b90cf5623026,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085c33082b90cf562302e,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085c33082b90cf562301a,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f9085c33082b90cf5623025,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085c33082b90cf5623011,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085c33082b90cf5623016,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f9085c33082b90cf5623021,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085c33082b90cf562302f,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085c33082b90cf562300b,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085c33082b90cf5623019,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085c33082b90cf5623022,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085c33082b90cf5623027,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085c33082b90cf5623010,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085c33082b90cf5623020,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085c33082b90cf5623023,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085c33082b90cf562302d,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085c33082b90cf5623009,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f9085c33082b90cf5623008,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085c33082b90cf5623017,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f9085c33082b90cf562301e,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085c33082b90cf562300a,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085c33082b90cf5623013,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085c33082b90cf562300c,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f9085c33082b90cf5623018,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f9085c33082b90cf562301c,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085c33082b90cf5623024,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085c33082b90cf562300d,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085c33082b90cf562300f,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085c33082b90cf5623015,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085c33082b90cf562301b,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085c33082b90cf562302a,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085c33082b90cf5623014,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085c33082b90cf562300e,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085c33082b90cf562302b,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085c33082b90cf562302c,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f9085c33082b90cf5623028,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085c33082b90cf5623029,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f9085fbb9a3d766cc47b23a,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085fbb9a3d766cc47b238,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085fbb9a3d766cc47b244,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085fbb9a3d766cc47b23b,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085fbb9a3d766cc47b24c,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085fbb9a3d766cc47b248,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085fbb9a3d766cc47b253,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085fbb9a3d766cc47b233,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085fbb9a3d766cc47b23c,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f9085fbb9a3d766cc47b243,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f9085fbb9a3d766cc47b24f,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085fbb9a3d766cc47b24d,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085fbb9a3d766cc47b249,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085fbb9a3d766cc47b257,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085fbb9a3d766cc47b258,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085fbb9a3d766cc47b250,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085fbb9a3d766cc47b232,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f9085fbb9a3d766cc47b24b,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085fbb9a3d766cc47b23d,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085fbb9a3d766cc47b24e,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f9085fbb9a3d766cc47b256,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085fbb9a3d766cc47b251,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085fbb9a3d766cc47b235,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f9085fbb9a3d766cc47b254,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085fbb9a3d766cc47b255,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f9085fbb9a3d766cc47b239,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f9085fbb9a3d766cc47b242,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f9085fbb9a3d766cc47b23f,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f9085fbb9a3d766cc47b24a,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085fbb9a3d766cc47b237,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085fbb9a3d766cc47b234,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f9085fbb9a3d766cc47b231,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f9085fbb9a3d766cc47b246,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085fbb9a3d766cc47b236,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f9085fbb9a3d766cc47b240,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f9085fbb9a3d766cc47b247,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085fbb9a3d766cc47b23e,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f9085fbb9a3d766cc47b241,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f9085fbb9a3d766cc47b245,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f9085fbb9a3d766cc47b252,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f92fca68b9f12858683fb06,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f92fca68b9f12858683fb0f,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f92fca68b9f12858683fb15,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5f92fca68b9f12858683fb28,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5f92fca68b9f12858683fb1a,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f92fca68b9f12858683fb24,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5f92fca68b9f12858683fb0d,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f92fca68b9f12858683fb21,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f92fca68b9f12858683fb07,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f92fca68b9f12858683fb0e,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f92fca68b9f12858683fb12,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f92fca68b9f12858683fb14,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f92fca68b9f12858683fb18,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f92fca68b9f12858683fb0a,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f92fca68b9f12858683fb1d,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f92fca68b9f12858683fb1e,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5f92fca68b9f12858683fb11,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f92fca68b9f12858683fb1b,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f92fca68b9f12858683fb1c,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f92fca68b9f12858683fb23,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f92fca68b9f12858683fb25,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f92fca68b9f12858683fb10,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f92fca68b9f12858683fb2a,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5f92fca68b9f12858683fb22,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f92fca68b9f12858683fb2c,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f92fca68b9f12858683fb05,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f92fca68b9f12858683fb0b,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5f92fca68b9f12858683fb1f,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5f92fca68b9f12858683fb16,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5f92fca68b9f12858683fb20,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f92fca68b9f12858683fb08,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5f92fca68b9f12858683fb09,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f92fca68b9f12858683fb0c,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5f92fca68b9f12858683fb19,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5f92fca68b9f12858683fb27,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5f92fca68b9f12858683fb29,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5f92fca68b9f12858683fb2b,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5f92fca68b9f12858683fb13,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5f92fca68b9f12858683fb17,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5f92fca68b9f12858683fb26,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5fb5342abda0c387527a8c13,Rajiv K,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5fb5342abda0c387527a8c14,Apurva Choudhary ,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5fb5342abda0c387527a8c15,Sangeeth S,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5fb5342abda0c387527a8c16,Rajath G P,VIII Semester EIE,Automated Medicine Vending Machine 
+5fb5342abda0c387527a8c17,Danish Gufran,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5fb5342abda0c387527a8c18,Sheetal B V,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5fb5342abda0c387527a8c19,Akshay Chhetri,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5fb5342abda0c387527a8c1a,Prathima Anand,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5fb5342abda0c387527a8c1b,Shereen Jubilee J,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5fb5342abda0c387527a8c1c,Rakshitha R,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5fb5342abda0c387527a8c1d,Ashish Kumar,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5fb5342abda0c387527a8c1e,K Sowmya,VIII Semester EIE,Touch Me Not - Women Ward Gadget using IoT
+5fb5342abda0c387527a8c1f,Srividya M Venkatesh,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5fb5342abda0c387527a8c20,Prashanth N,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5fb5342abda0c387527a8c21,Divya B K,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5fb5342abda0c387527a8c22,Shri Ramya S,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5fb5342abda0c387527a8c23,Spoorthi C P,VIII Semester EIE,Health & Position Tracking System for Soldiers 
+5fb5342abda0c387527a8c24,Akshay Kumar C,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5fb5342abda0c387527a8c25,Abhay A Kulkarni,VIII Semester EIE,Underground object size approximation using GPR Signal and Image Processing
+5fb5342abda0c387527a8c26,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5fb5342abda0c387527a8c27,Nikhath Firdose,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5fb5342abda0c387527a8c28,Nidhi S Kumar,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5fb5342abda0c387527a8c29,Simi S Telsang,VIII Semester EIE,Speech Feature Extraction and Recognition using MFCC
+5fb5342abda0c387527a8c2a,Gowri L Jadhav,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5fb5342abda0c387527a8c2b,Apoorva G S,VIII Semester EIE,"Manoglani Pareeksha, App Based Depression Predictor Model for Bengaluru Rural Farmers"
+5fb5342abda0c387527a8c2c,Nikhil P Nandalike,VIII Semester EIE,Automated Medicine Vending Machine 
+5fb5342abda0c387527a8c2d,Rashmi B C,VIII Semester EIE,Animatronic Hand using Principles of Machine Learning
+5fb5342abda0c387527a8c2e,Arjun B G,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5fb5342abda0c387527a8c2f,Anirudh Sosale,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5fb5342abda0c387527a8c30,Srinivas Gururaj Mutalik,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5fb5342abda0c387527a8c31,Nirgun ,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5fb5342abda0c387527a8c32,Impana R Gowda,VIII Semester EIE,Automated Medicine Vending Machine 
+5fb5342abda0c387527a8c33,Prithvi S Sanketh ,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
+5fb5342abda0c387527a8c34,Yashashwini V,VIII Semester EIE,Automatic Extraction of Retinal Vascular Tree
+5fb5342abda0c387527a8c35,Nihal Polanki,VIII Semester EIE,Development of Integrated Diagnosis Tool for Detection of Breast Cancer using LabView
+5fb5342abda0c387527a8c36,Revanasiddesh Bhangure,VIII Semester EIE,Automated Medicine Vending Machine 
+5fb5342abda0c387527a8c37,Parimala K,VIII Semester EIE,Soldier's Health And Position Tracking System 
+5fb5342abda0c387527a8c38,Karthik R,VIII Semester EIE,Intelligent Pot-Hole Detection and Environment Assessment
+5fb5342abda0c387527a8c39,K Sneha Shanbhogue,VIII Semester EIE,Lie Detection by Analyzing changes in Heart Rate & Body Temperature
+5fb5342abda0c387527a8c3a,Darshan A R,VIII Semester EIE,Wireless Display and Notification System for Multiple Recievers
