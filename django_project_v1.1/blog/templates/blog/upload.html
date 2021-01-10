@@ -1,0 +1,12 @@
+{% extends "blog/base2.html" %}
+
+{%block content%}
+<title>Upload Madiri</title>
+<h2>File Uploader</h2>
+<h2>Please Select .txt/.csv/.xlsx format files only</h2>
+<form method = "POST", enctype="multipart/form-data">
+	{% csrf_token %}
+	<input type="file" name="document">
+	<button type="submit">Submit</button>
+</form>
+{% endblock content %}
