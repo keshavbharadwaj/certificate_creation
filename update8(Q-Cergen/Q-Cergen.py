@@ -51,6 +51,16 @@ def color_picker():
     colour=colour[-1::-1]
 
 def fontchooser(fontype,fontsscale_text,fontscolour_text,linetypes_text,thickness_text,img1,align):
+    """
+    GUI for font customisation for every attribute
+    :param fontype -> type of font required for that attribute
+    :param fontsscale_text -> scale required for that attribute
+    :param fontscolour_text -> colour required for that attribute
+    :param linetypes_text -> linetype required for that attribute
+    :param thickness_text -> thickness required for that attribute
+    :param img1 -> certificate template copy after preprocessing
+    :param align -> location of that attribute on certificate
+    """
     try:
         x,y,_=img1.shape
         #print(fontype,fontsscale_text,fontscolour_text,linetypes_text,thickness_text)
@@ -124,9 +134,6 @@ def fontchooser(fontype,fontsscale_text,fontscolour_text,linetypes_text,thicknes
         l4.pack()
         e3.pack()
 
-
-
-
         sets=IntVar()
         sets.set(0)
         submits=IntVar()
@@ -173,6 +180,10 @@ def fontchooser(fontype,fontsscale_text,fontscolour_text,linetypes_text,thicknes
 
 
 def add_data(path):
+    """
+    Updates attributes of certificate into database
+    :param path -> temp csv file created with only necessary attributes defined by user:
+    """
     try:
         print("HERE")
         login_url='https://rnsit-ecert.herokuapp.com/users/login'
@@ -232,6 +243,10 @@ def add_data(path):
 
 
 def image_resizer(src,scale):
+    """
+    :param src -> source image to rescale:
+    :param scale -> Percentage of rescale:
+    """
 
     scale=scale*100
     width = int(src.shape[1] * scale / 100)
@@ -244,6 +259,10 @@ def image_resizer(src,scale):
 
 
 def draw_circle(event, x, y, flags, param):
+    """
+    :param x: -> x pos on canvas by mousepointer
+    :param y: -> y pos on canvas by mousepointer
+    """
     global sel
     global mouseX, mouseY
     if event == cv2.EVENT_LBUTTONDBLCLK:
@@ -255,6 +274,9 @@ def draw_circle(event, x, y, flags, param):
 
 
 def selectiononcertificate():
+    """
+    location selection screen for all attributes choosen by user
+    """
     global sel, sample
     sel = sel + 1
     sample = img1.copy()
@@ -287,6 +309,14 @@ def fonter(i):
 
 
 def show_sel():
+    """
+    User customiztion on certificate:
+        -> Provides user cutomiztion options to each and every text attribute (font, thickness, colour, scale)
+        -> Provides user cutomiztion options to each and every image attribute (scale)
+    inner function show_qr: shows QR code position and scale on the certificate
+    inner function img_show: shows position and scale of image attribute in the certificate
+    :return:
+    """
     global align, frames2, serial, font_text, fontscale_text, fontcolour_text, linetype_text
     global scl, frames1, pos,img_paths,imgdata
 
@@ -369,7 +399,6 @@ def show_sel():
         ok_button.grid(row=0, column=1)
         toplevel.wait_variable(wait)
         toplevel.destroy()
-
 
 
     a = img1.copy()
@@ -550,6 +579,10 @@ def show_sel():
 
 
 def selection():
+    """
+    full flow for selection of attributes on the certificate
+    :return:
+    """
     try:
         global sel
         global frames
@@ -591,6 +624,13 @@ def selection():
 
 
 def segmentation(img, initialx, initialy, s):
+    """
+    :param img -> certificate image:
+    :param initialx -> x position for embedding given string:
+    :param initialy - > Y position for embedding given string:
+    :param s - > string to be embedded into certificate:
+    :return x,y -> x,y postion after string has been embedded:
+    """
     x = initialx
     y = initialy
     font = cv2.FONT_HERSHEY_PLAIN
@@ -627,6 +667,11 @@ def qrmadu(no):
 
 
 def certificate(csvno, c):
+    """
+    Generate certificate given row number with corresponding column attributes
+    :param csvno -> certificate number:
+    :param c -> flag value 0 for creation from csv
+    """
     global align, d, pos
     a = img1.copy()
     global fonts_text, fontsscale_text, fontscolour_text, linetypes_text, thickness_text
@@ -657,6 +702,9 @@ def certificate(csvno, c):
 
 
 def steganography():
+    """
+    Default steganography on certificate
+    """
     x = 50
     y = 50
     x, y = segmentation(img1, x, y, "2K16")
@@ -670,6 +718,10 @@ def steganography():
 
 
 def steganography2(steg):
+    """
+    User defined steganography
+    :param steg -> string to be embedded into the certificate :
+    """
     x = 50
     y = 50
     for a in steg:
@@ -693,6 +745,15 @@ def log():
 
 
 def main():
+    """
+    flow for entire certificate generation and creation process.
+     -> preprocessing of certificate includes steganography of given template (optional).
+     -> storing and generation of unique QR code for each individual certificate (optional).
+     -> user selection of attributes to be stored in database and displayed on certifiate
+     -> User font and scale customisation for each attribute present in csv
+
+    :return: All certificates generated and stored in certificate folder in Q-cergen rootdir
+    """
     frame2.destroy()
     steg = '0'
     global frame3, d, names, serial,imgdata,Serialpresent
@@ -948,8 +1009,6 @@ def main():
                         filedialog.askdirectory(title="Select the folder where the " + i + " images are stored"))
 
 
-
-
             selection()
             global csvno
             cno = len(serial)
@@ -988,6 +1047,10 @@ def main():
 
 
 def main2():
+    """
+    Steganography decoding
+    :return: stores decoded certificate in Q-cergen rootdir
+    """
     frame1.destroy()
     frame2 = Canvas(root)
     frame2.pack(fill=BOTH, expand=True)
@@ -1050,6 +1113,11 @@ def main2():
 
 
 def generate():
+    """
+    Frame recieves path of certificate from user.
+    QA of certificate (resolution should meet min requirement)
+
+    """
     try:
         global img1, frame2
         frame1.destroy()
@@ -1098,6 +1166,9 @@ def generate():
 
 
 def DEVS():
+    """
+    Display developer names
+    """
     frame1.destroy()
 
     frame2 = Canvas(root)
@@ -1130,9 +1201,11 @@ def DEVS():
     frame2.wait_variable(var)
 
 def database():
-
-
-
+    """
+    Database maintainance and display from GUI
+    inner function count_certificates -> count total certificates stored in cluster
+    inner function find_details -> find and delete certificate contains nested fucntions (full flow of deletion from database)
+    """
     def count_certificates():
         e3.delete(0, "end")
         count = collections.count_documents({})
@@ -1211,9 +1284,6 @@ def database():
             scrollbar.config(command=listbox.yview)
             scrollbar2.config(command=listbox.xview)
 
-
-
-
             choice=IntVar()
             choice.set(0)
 
@@ -1223,20 +1293,11 @@ def database():
             b4= Button(framedb, text="Done", padx=40, pady=10, font=fontstyle2, command=lambda:choice.set(1),bg="black",fg="white")
             b4.place(x=500,y=600)
             root.wait_variable(choice)
-            #print("DONE!!!!!")
             listbox.destroy()
             scrollbar.destroy()
             scrollbar2.destroy()
             b3.destroy()
             b4.destroy()
-
-        #print("done")
-
-
-
-
-
-
 
 
     frame1.destroy()
@@ -1260,7 +1321,7 @@ def database():
                     fg="white").place(x=600, y=60)
 
     frame2.wait_variable(v)
-    if e.get() != "cergen@rnsit2020":
+    if e.get() != "Quantumislife123":
         messagebox.showerror("password", "password inccorect")
         frame2.destroy()
         database()
@@ -1319,10 +1380,12 @@ def database():
         mainframe(framedb)
 
 
-
-
-
 def mainframe(x):
+    """
+     Base Frame acts as main menu. Each button corresponds to creation of different frame.
+     All data reset to default.
+    :param x -> Frame to be passed from any part of the program (gets destroyed):
+    """
     global frame1
     x.destroy()
     certino = 0
@@ -1360,7 +1423,6 @@ def mainframe(x):
     l1 = Label(frame1, text="WELCOME TO CERTIFICATE GENERATOR", padx=10, pady=10, font=fontstyle, fg=fore,
                background=back)
     l1.place(x=100, y=100)
-    # logo=Label(frame1,text="",padx=100,pady=100)
 
     sizex = 0  # use this to change the size
     sizey = 0
@@ -1376,11 +1438,6 @@ def mainframe(x):
     button5 = Button(frame1, text="DATABASE  ", font=fontstyle2, padx=20 + sizex, pady=20 + sizey, command=database,
                      background=back, foreground=fore)
 
-    # pic = cv2.imread(".img\\rns1.jpg")
-    # pic = cv2.resize(pic, (500, 500), cv2.INTER_AREA)
-    # pic = cv2.cvtColor(pic, cv2.COLOR_BGR2RGB)
-    # photo1 = ImageTk.PhotoImage(image=Image.fromarray(pic))
-    # logo = Label(frame1, image=photo1)
 
     frame1.pack(fill=BOTH, expand=True)
 
@@ -1400,10 +1457,14 @@ def mainframe(x):
     os._exit(1)
 
 
-
-
-
 def login():
+    """
+    :inner function loginS -> email and password verification
+    :inner function reset_password -> reset user password
+    :inner function signup -> account creation given adminkey
+    controls login frame
+    :return: sets status of var login_complete as 1 on successful login
+    """
     def logins():
         email = e1.get()
         password = e2.get()
@@ -1450,9 +1511,6 @@ def login():
 
         else:
             v.set("Invalid Admin-Key")
-
-
-
 
     login=Tk()
     login.iconbitmap('.img/icon_no_bg.ico')
